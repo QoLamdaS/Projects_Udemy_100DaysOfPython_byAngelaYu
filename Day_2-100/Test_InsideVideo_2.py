@@ -1,0 +1,5 @@
+print(type("Hello World!"))
+print(type(2365))
+print(type(43.5343))
+print(type(True))
+print(type(False))
