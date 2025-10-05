@@ -3,6 +3,6 @@ weight = 84
 
 #Todo: Write your code here.
 #Todo: Calculate the bmi using weight and height.
-bmi = 84 / 1.65 ** 2
+bmi = weight / height ** 2
 
 print(bmi)
