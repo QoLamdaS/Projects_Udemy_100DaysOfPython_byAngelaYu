@@ -1,3 +1,6 @@
+
+#* Project day 2 completed yeah!!
+
 print("WELCOME di Kalkulator TIP!")
 Total_Bill = float(input("What was the total bill? Rp"))
 TipPercentage = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
