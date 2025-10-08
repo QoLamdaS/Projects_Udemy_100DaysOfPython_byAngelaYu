@@ -21,3 +21,7 @@ Day 5/100 :
 Day 6/100 :
 > I learned a bit about if-else statements more detailed and comparison operators in Python today. Right now, I need to finish a bunch of my homework hehehehe =).☕
 
+Day 7/100 :
+> Yesterday I fall asleep accidentally hehehehe, so yesterday I set-up my GitHub and learned Module Operation a bit.
+
+
