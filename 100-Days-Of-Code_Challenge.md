@@ -1,5 +1,6 @@
 #100-Days-Of-Code Challenge in this repository (Quote: "Something is better than nothing at all.")
 
+Started date = 1 Oktober 2025
 Day 0/100 : 
 > I missed (PROcrastinated) two days in a row for this challenge coding lol. It's okay "failure is a part of success." hehehehe 😅 😅 😅
 
@@ -24,4 +25,7 @@ Day 6/100 :
 Day 7/100 :
 > Yesterday I fall asleep accidentally hehehehe, so yesterday I set-up my GitHub and learned Module Operation a bit.
 
+9 Oktober 2025 : I missed day 8 wkwkwkwkw. Due to I'm busy with my schoolworks (time miscalculations) and overslept my quick nap (sleep accidentally). I must use Alarmy App instead to get me up hehehehe.
+
+Day 8/100 :
 
