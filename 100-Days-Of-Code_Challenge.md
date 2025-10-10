@@ -29,7 +29,8 @@ Day 6/100 : 7 October 2025, Tuesday
 Day 7/100 : 8 October 2025, Wednesday
 > Yesterday I fall asleep accidentally hehehehe, so yesterday I set-up my GitHub and learned Module Operation a bit.
 
-9 Oktober 2025, Thursday : I missed day 8 wkwkwkwkw. Due to I'm busy with my schoolworks (time miscalculations) and overslept my quick nap (sleep accidentally). I must use Alarmy App instead to get me up hehehehe.
+9 October 2025, Thursday : I missed day 8 wkwkwkwkw. Due to I'm busy with my schoolworks (time miscalculations) and overslept my quick nap (sleep accidentally). I must use Alarmy App instead to get me up hehehehe.
 
-Day 8/100 :
+Day 8/100 : 10 October 2025, Friday
+> I only reviewed a bit about Module Operation Python in Day 3. My midterm exams are upcoming next Monday. I feel like "unproductive" today due to feel exhausted and sleepy (sleep deprived from last week). Uhhh, today I just want to get enough sleep. 😴😴😴😴😴.
 
