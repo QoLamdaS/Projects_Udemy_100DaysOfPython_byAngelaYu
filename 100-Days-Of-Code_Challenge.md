@@ -34,3 +34,8 @@ Day 7/100 : 8 October 2025, Wednesday
 Day 8/100 : 10 October 2025, Friday
 > I only reviewed a bit about Module Operation Python in Day 3. My midterm exams are upcoming next Monday. I feel like "unproductive" today due to feel exhausted and sleepy (sleep deprived from last week). Uhhh, today I just want to get enough sleep. 😴😴😴😴😴.
 
+Day 9/100 : 11 October 2025, Saturday
+> I learn a bit if-elif-else statements and nested statements on Day 3 course. I procrastinated unknowingly and I have no idea and feeling bad about that. I also busy for preparing my upcoming midterm exams next week. But I'm trying my best to complete this challenge consistently. 😞😞😞
+
+
+
