@@ -23,3 +23,6 @@ print('''
 
       ''')
 
+print("Welcome to Treasure Island. Australian Version???")
+
+
