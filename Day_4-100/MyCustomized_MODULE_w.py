@@ -1,0 +1,1 @@
+MeinFavorite_String = "Ich mag die Pizza kaufen!"
