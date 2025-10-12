@@ -37,5 +37,9 @@ Day 8/100 : 10 October 2025, Friday
 Day 9/100 : 11 October 2025, Saturday
 > I learn a bit if-elif-else statements and nested statements on Day 3 course. I procrastinated unknowingly and I have no idea and feeling bad about that. I also busy for preparing my upcoming midterm exams next week. But I'm trying my best to complete this challenge consistently. 😞😞😞
 
+Day 10/100 : 12 October 2025, Sunday
+> I finally completed Day 3 course and created 26.Pizza Order Practice Challenge & Day_3_Treasure Island Project by applying if-elif-else statements. Also, I learned import modules (also created own), lists, random-module and completed Day 4 Course with creating Rock Paper Scissor Game by applying Random-Module and if-elif-else statements. I feel grateful I've got some free/leisure time today on Sunday. I hope tomorrow is still consistent wwkwkwwkwwk.=)
+
+
 
 
