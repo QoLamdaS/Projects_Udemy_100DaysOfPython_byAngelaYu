@@ -23,6 +23,9 @@ print('''
 
       ''')
 
-print("Welcome to Treasure Island. Australian Version???")
+print("\nWelcome to Treasure Island. Australian Version???\nYour mission is to find the Silver CHEST.")
+
+
+
 
 
