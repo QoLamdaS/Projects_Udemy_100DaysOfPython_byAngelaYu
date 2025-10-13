@@ -40,6 +40,10 @@ Day 9/100 : 11 October 2025, Saturday
 Day 10/100 : 12 October 2025, Sunday
 > I finally completed Day 3 course and created 26.Pizza Order Practice Challenge & Day_3_Treasure Island Project by applying if-elif-else statements. Also, I learned import modules (also created own), lists, random-module and completed Day 4 Course with creating Rock Paper Scissor Game by applying Random-Module and if-elif-else statements. I feel grateful I've got some free/leisure time today on Sunday. I hope tomorrow is still consistent wwkwkwwkwwk.=)
 
+* Week Number = 42
+
+Day 11/100 : 13 October 2025, Monday
+> I learn a little bit about loops on Day 5 of the Udemy Course. Today I am busy preparing for my midterm exams tomorrow. ☕️☕️☕️. =)
 
 
 
