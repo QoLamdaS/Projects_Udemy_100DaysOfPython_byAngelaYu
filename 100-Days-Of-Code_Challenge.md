@@ -45,5 +45,10 @@ Day 10/100 : 12 October 2025, Sunday
 Day 11/100 : 13 October 2025, Monday
 > I learn a little bit about loops on Day 5 of the Udemy Course. Today I am busy preparing for my midterm exams tomorrow. ☕️☕️☕️. =)
 
+Day 12/100 : 14 October 2025, Tuesday
+> I learn a bit about for loop on Day 5. This day, I'm still busy preparing my midterm exams tomorrow. =)
+
+
+
 
 
