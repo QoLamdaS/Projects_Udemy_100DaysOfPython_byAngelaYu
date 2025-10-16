@@ -51,4 +51,7 @@ Day 12/100 : 14 October 2025, Tuesday
 Day 13/100 : 15 October 2025, Wednesday
 > I learn a little bit about sum() and max() functions on Day 5 "39. Highest Score" by Dr. Angela. I'm still busy preparing for exams tomorrow. 😵‍💫😵‍💫😵‍💫
 
+Day 14/100 : 16 October 2025, Thursday
+> I learn a bit about max() functions on Day 5 "39. Highest Score" by Dr. Angela Yu. Today I am still busy preparing tomorrow exams. =(
+
 
