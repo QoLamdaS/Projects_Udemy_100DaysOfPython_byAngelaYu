@@ -54,4 +54,8 @@ Day 13/100 : 15 October 2025, Wednesday
 Day 14/100 : 16 October 2025, Thursday
 > I learn a bit about max() functions on Day 5 "39. Highest Score" by Dr. Angela Yu. Today I am still busy preparing tomorrow exams. =(
 
+Day 15/100 : 17 October 2025, Friday
+> I learn and applied a little bit about max() function on Day 5. Right now, I need to sleep longer and earlier because I feel so sleepy and tired ("sleep deprivation" due to my midterm exams).
+
+
 
