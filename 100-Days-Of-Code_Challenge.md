@@ -57,5 +57,9 @@ Day 14/100 : 16 October 2025, Thursday
 Day 15/100 : 17 October 2025, Friday
 > I learn and applied a little bit about max() function on Day 5. Right now, I need to sleep longer and earlier because I feel so sleepy and tired ("sleep deprivation" due to my midterm exams).
 
+Day 16/100 : 18 October 2025, Saturday
+> I learn a little bit of range() Python function on Day 5 "40. ". Still busy, I feel so tired, I don't know why (Overheat Brain??)
+
+
 
 
