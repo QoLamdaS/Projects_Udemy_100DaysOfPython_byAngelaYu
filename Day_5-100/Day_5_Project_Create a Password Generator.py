@@ -1,5 +1,7 @@
 import string
 import random
+import os
+os.system("cls")
 
 print("Welcome to the Py_Password Generator my VERSION!")
 NumLetters = int(input("How many letters would you like in your password? "))
