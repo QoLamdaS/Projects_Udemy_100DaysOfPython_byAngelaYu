@@ -60,6 +60,8 @@ Day 15/100 : 17 October 2025, Friday
 Day 16/100 : 18 October 2025, Saturday
 > I learn a little bit of range() Python function on Day 5 "40. ". Still busy, I feel so tired, I don't know why (Overheat Brain??)
 
+Day 17/100 : 19 October 2025, Sunday
+> I finally completed Day 5 Course by creating my own password generator using for loops + lists and import random modules. Today, I'm still busy for cramming my exams tomorrow. =)
 
 
 
