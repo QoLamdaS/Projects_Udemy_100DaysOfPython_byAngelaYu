@@ -1,5 +1,9 @@
 import string
 import random
 
-AllLetters_str = string.ascii_lowercase + string.ascii_uppercase
-print(AllLetters_str)
+all_digitsWhole = list(string.digits)
+all_symbols = list(string.punctuation)
+all_letters = list(string.ascii_letters)
+print(all_letters)
+print(all_symbols)
+print(all_digitsWhole)
