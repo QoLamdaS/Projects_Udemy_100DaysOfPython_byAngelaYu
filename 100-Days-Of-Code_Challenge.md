@@ -66,6 +66,8 @@ Day 17/100 : 19 October 2025, Sunday
 Day 18/100 : 20 October 2025, Monday
 > I learn a little bit about Python Functions on Day 6. I procrastinated to start learning programming, I don't know why I'm procrastinated hehehehehe (Emotional Dysregulation). At least I still trying to keeping up.
 
+Day 19/100 : 21 October 2025, Tuesday
+> I only reviewed a little bit about Python Functions on Day 6. Finally midterm exams are "over" now, but today I feel so sick (Common Cold) and so sleepy.
 
 
 
