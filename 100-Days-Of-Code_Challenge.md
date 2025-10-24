@@ -69,6 +69,11 @@ Day 18/100 : 20 October 2025, Monday
 Day 19/100 : 21 October 2025, Tuesday
 > I only reviewed a little bit about Python Functions on Day 6. Finally midterm exams are "over" now, but today I feel so sick (Common Cold) and so sleepy.
 
-Day 20/100 : 22 October, Wednesday (DAY OFF)
+Day 20/100 : 22 October 2025, Wednesday (DAY OFF)
 > I need to take a day off today, I feel terribily sick and high fever.
+
+Day 20/100 : 23 October 2025, Thursday (Supposedly)
+> Yesterday I only reviewed a little bit. I falling asleep accidentally and completely forgot to write this hehehehe.
+
+
 
