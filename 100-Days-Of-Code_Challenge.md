@@ -78,6 +78,7 @@ Day 20/100 : 23 October 2025, Thursday (Supposedly)
 Day 21/100 : 24 October 2025, Friday
 > Today I learned a little bit about defining functions and calling functions on Day 6 "44. ". I feel a bit guilty for "stagnant" programming progress due to my urgent schoolworks and bit problematic schoolworks. Consistent is better than nothing hehehehehe.
 
-
+Day 22/100 : 25 October 2025, Saturday
+> Today I finished Day 6 "44. " and solve Reeborg's World challenge from Dr. Angela. I am still busy with my schoolwork projects with tight deadlines.
 
 
