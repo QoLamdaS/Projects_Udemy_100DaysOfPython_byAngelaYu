@@ -81,4 +81,5 @@ Day 21/100 : 24 October 2025, Friday
 Day 22/100 : 25 October 2025, Saturday
 > Today I finished Day 6 "44. " and solve Reeborg's World challenge from Dr. Angela. I am still busy with my schoolwork projects with tight deadlines.
 
-
+Day 23/100 : 26 October 2025, Sunday
+> I solve the challenge by my own Day 6 "45. The Hurdles Loop Challenge" in Reeborgs World website. Currently still busy with my schoolwork projects.
