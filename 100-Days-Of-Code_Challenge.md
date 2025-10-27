@@ -63,6 +63,8 @@ Day 16/100 : 18 October 2025, Saturday
 Day 17/100 : 19 October 2025, Sunday
 > I finally completed Day 5 Course by creating my own password generator using for loops + lists and import random modules. Today, I'm still busy for cramming my exams tomorrow. =)
 
+* Week Number = 43
+
 Day 18/100 : 20 October 2025, Monday
 > I learn a little bit about Python Functions on Day 6. I procrastinated to start learning programming, I don't know why I'm procrastinated hehehehehe (Emotional Dysregulation). At least I still trying to keeping up.
 
@@ -83,3 +85,10 @@ Day 22/100 : 25 October 2025, Saturday
 
 Day 23/100 : 26 October 2025, Sunday
 > I solve the challenge by my own Day 6 "45. The Hurdles Loop Challenge" in Reeborgs World website. Currently still busy with my schoolwork projects.
+
+* Week Number = 44
+
+Day 24/100 : 27 October 2025, Monday
+> I finished video Day 6 "46. Indentation in Python". So basically, indentation in Python required Tab button that equal to Four Spaces. This day, I am refreshing with my friends to hangout. I feel so tired right now.
+
+
