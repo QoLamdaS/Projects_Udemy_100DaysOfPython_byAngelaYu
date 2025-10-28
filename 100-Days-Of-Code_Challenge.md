@@ -91,4 +91,9 @@ Day 23/100 : 26 October 2025, Sunday
 Day 24/100 : 27 October 2025, Monday
 > I finished video Day 6 "46. Indentation in Python". So basically, indentation in Python required Tab button that equal to Four Spaces. This day, I am refreshing with my friends to hangout. I feel so tired right now.
 
+Day 25/100 : 28 October 2025, Tuesday
+> I completed "Quiz 6: Code Indentation Quiz" on Day 6 and learned a little bit about While Loop Python. I bit procrastinated on starting to learn programming (inertia), hehehehehe. HAPPY CODING!!
+
+
+
 
