@@ -94,6 +94,8 @@ Day 24/100 : 27 October 2025, Monday
 Day 25/100 : 28 October 2025, Tuesday
 > I completed "Quiz 6: Code Indentation Quiz" on Day 6 and learned a little bit about While Loop Python. I bit procrastinated on starting to learn programming (inertia), hehehehehe. HAPPY CODING!!
 
+29 October 2025, Wednesday : I missed Day 26 yesterday hehehehe. Yesterday I procrastinated so long by distracting myself to watch Anime hehehehe. Also and I falling asleep accidentally. STAY CONSISTENT!!!
+
 
 
 
