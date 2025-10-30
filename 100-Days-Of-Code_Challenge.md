@@ -96,6 +96,10 @@ Day 25/100 : 28 October 2025, Tuesday
 
 29 October 2025, Wednesday : I missed Day 26 yesterday hehehehe. Yesterday I procrastinated so long by distracting myself to watch Anime hehehehe. Also and I falling asleep accidentally. STAY CONSISTENT!!!
 
+Day 26/100 : 30 October 2025, Thursday
+> I finally completed "48. Hurdles Challenge using While Loops" on Day 6 course. And reviewed a bit about while loops. I somewhat procrastinated too long this day to just start programming. Maybe I'm sleep deprived or sick today hehehehe. Happy Coding!
+
+
 
 
 
