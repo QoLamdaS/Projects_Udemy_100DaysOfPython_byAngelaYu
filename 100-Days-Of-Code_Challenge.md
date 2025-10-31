@@ -99,7 +99,8 @@ Day 25/100 : 28 October 2025, Tuesday
 Day 26/100 : 30 October 2025, Thursday
 > I finally completed "48. Hurdles Challenge using While Loops" on Day 6 course. And reviewed a bit about while loops. I somewhat procrastinated too long this day to just start programming. Maybe I'm sleep deprived or sick today hehehehe. Happy Coding!
 
-
+Day 27/100 : 31 October 2025, Friday
+> I finally completed Day 6 Course Udemy (ALL IN Reeborg's World challenges/hurdles). And learn a bit on Day 7 Course by creating a Hangman Game project. I need to sleep right now, I feel very exhausted and sleep deprived. Happy Coding and Happy Halloween!!
 
 
 
