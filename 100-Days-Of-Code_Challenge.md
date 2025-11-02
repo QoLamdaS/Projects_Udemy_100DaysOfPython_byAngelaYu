@@ -102,10 +102,10 @@ Day 26/100 : 30 October 2025, Thursday
 Day 27/100 : 31 October 2025, Friday
 > I finally completed Day 6 Course Udemy (ALL IN Reeborg's World challenges/hurdles). And learn a bit on Day 7 Course by creating a Hangman Game project. I need to sleep right now, I feel very exhausted and sleep deprived. Happy Coding and Happy Halloween!!
 
-Day 28/100 : 1 November 2025, Saturday (25/5 Pomodoro 2x; 1 hour✅) 
+Day 28/100 : 1 November 2025, Saturday (25/5 Pomodoro 2x ; 1 hour✅) 
 > Going through Day 7 Course until "Day7_55. " by myself at most. I finally try to challenge myself for programming at least 1 hour everyday by 25/5 or maybe 50/10 Pomodoro Technique. So the new good habit formation for myself today 25/5 Programming Everyday (1 hour). Right now, I feel so sleepy and exhausted.
 
-Day 29/100 : 2 November 2025, Sunday (25/5 Pomodoro 2x; 1 hour✅)
+Day 29/100 : 2 November 2025, Sunday (25/5 Pomodoro 2x ; 1 hour✅)
 > Today I do :
 - I struggling and finally completed "Day7_55. " challenge Udemy Course Dr. Angela
 - I still struggling to complete "Day7_56. " challenge, I literally have no idea hehehehe.
