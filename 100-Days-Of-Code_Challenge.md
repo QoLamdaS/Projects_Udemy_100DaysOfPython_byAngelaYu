@@ -110,5 +110,12 @@ Day 29/100 : 2 November 2025, Sunday (>1 hour✅)
 - I struggling and finally completed "Day7_55. " challenge Udemy Course Dr. Angela
 - I still struggling to complete "Day7_56. " challenge, I literally have no idea hehehehe.
 
+* Week Number = 45
+
+Day 30/100 : 3 November 2025, Monday (>1 hour ✅)
+> Today I don :
+- Actually I got stucked on "Day7_56. " challenge. My brain overheat and really have no idea. I feel so unproductive this day hehehehehe. STAY CONSISTENT!!
+
+
 
 
