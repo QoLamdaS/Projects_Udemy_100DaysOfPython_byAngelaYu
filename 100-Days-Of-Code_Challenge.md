@@ -116,6 +116,16 @@ Day 30/100 : 3 November 2025, Monday (>1 hour ✅)
 > Today I do :
 - Actually I got stucked on "Day7_56. " challenge. My brain overheat and really have no idea. I feel so unproductive this day hehehehehe. STAY CONSISTENT!!
 
+Day 31/100 : 4 November 2025, Tuesday (≈15 mins; >1 hour❌)
+> What I do today :
+- Only reviewed a little bit about while/for loops and if/elif/else statements. Today I'm busy with my schoolworks projects tomorrow deadline. Happy Coding Guys!!
+
+Day 32/100 : 5 November 2025, Wednesday (≈5 mins; >1 hour❌)
+> What I do today :
+- Only reviewed a very little bit about Python Loops, still stucked on "Day7_57. " challenge. I need to sleep very early (Sleep Enough) and very unfocused due to last night I only slept for two hours because school projects. Happy Coding!
+
+
+
 
 
 
