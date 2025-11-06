@@ -124,8 +124,7 @@ Day 32/100 : 5 November 2025, Wednesday (≈5 mins; >1 hour❌)
 > What I do today :
 - Only reviewed a very little bit about Python Loops, still stucked on "Day7_57. " challenge. I need to sleep very early (Sleep Enough) and very unfocused due to last night I only slept for two hours because school projects. Happy Coding!
 
-
-
-
-
+Day 33/100 : 6 November 2025, Thursday (≈10 mins; >1 hour❌)
+> What do I done today :
+- I only copy-paste code from Dr. Angela "Day7_56. " (part_1), I got stuck for this challenge. Also today I'm busy with upcoming school exams period. HAPPY CODING GUYS!!
 
