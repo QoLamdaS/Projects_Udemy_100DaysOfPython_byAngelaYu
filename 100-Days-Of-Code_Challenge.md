@@ -128,3 +128,9 @@ Day 33/100 : 6 November 2025, Thursday (≈10 mins; >1 hour❌)
 > What do I done today :
 - I only copy-paste code from Dr. Angela "Day7_56. " (part_1), I got stuck for this challenge. Also today I'm busy with upcoming school exams period. HAPPY CODING GUYS!!
 
+Day 34/100 : 7 November 2025, Friday (≈5 mins; >1 hour❌)
+> What do I do this day :
+- I only reviewed about for and while Python loop. I feel guilty for procrastinated so long for programming hehehehe. I literally have no idea why, maybe boredom and other responsibilities stress. STAY CONSISTENT!!
+
+
+
