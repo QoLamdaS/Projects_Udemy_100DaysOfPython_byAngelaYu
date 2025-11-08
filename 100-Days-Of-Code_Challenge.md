@@ -132,5 +132,10 @@ Day 34/100 : 7 November 2025, Friday (≈5 mins; >1 hour❌)
 > What do I do this day :
 - I only reviewed about for and while Python loop. I feel guilty for procrastinated so long for programming hehehehe. I literally have no idea why, maybe boredom and other responsibilities stress. STAY CONSISTENT!!
 
+Day 35/100 : 8 November 2025, Saturday (≈5 mins; >1 hour❌)
+> What I done today :
+- Only watch a little bit "Day7_56. ". Today I am busy with my multiple homeworks and upcoming school exams. Also today, I procrastinated so much, I feel really guilty and stressed about it, strangely I procrastinated by playing video games that I hate to play just to avoid study for exams and programming. Stay Consistent!!
+
+
 
 
