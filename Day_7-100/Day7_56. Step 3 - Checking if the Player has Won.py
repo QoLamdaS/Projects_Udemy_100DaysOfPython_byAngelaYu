@@ -1,8 +1,10 @@
 import random
+import os
+
+os.system("cls")
 word_list = ["aardvark", "baboon", "camel"]
 
 chosen_word = random.choice(word_list)
-print(chosen_word)
 
 placeholder = ""
 word_length = len(chosen_word)
@@ -13,7 +15,7 @@ print (placeholder)
 correct_letters = []
 game_over = False
 
-while not game_over:
+while True:
     guess = input("Guess a letter: ").lower()
     display = ""
 
@@ -28,5 +30,7 @@ while not game_over:
     print(display)
 
     if "_" not in display:
-        game_over = True
-        print("You win!")
+        os.system("cls")
+        break
+
+print("\nYEAH, You win!!!!!!!!!!!!\n")
