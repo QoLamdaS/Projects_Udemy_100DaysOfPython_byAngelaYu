@@ -13,7 +13,6 @@ for position in range(word_length):
 print (placeholder)
 
 correct_letters = []
-game_over = False
 
 while True:
     guess = input("Guess a letter: ").lower()
