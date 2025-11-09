@@ -136,6 +136,9 @@ Day 35/100 : 8 November 2025, Saturday (≈5 mins; >1 hour❌)
 > What I done today :
 - Only watch a little bit "Day7_56. ". Today I am busy with my multiple homeworks and upcoming school exams. Also today, I procrastinated so much, I feel really guilty and stressed about it, strangely I procrastinated by playing video games that I hate to play just to avoid study for exams and programming. Stay Consistent!!
 
+Day 36/100 : 9 November 2025, Sunday (≈25 mins; >1 hour❌)
+> What I do today :
+- Finally completely finish "Day7_56. " challenge by copy-paste literally, and improving it by adding import os cls, While True, and break statement to make it better than Dr. Angela (I tried at least LOL). HAPPY CODING GUYS!!
 
 
 
