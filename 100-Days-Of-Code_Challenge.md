@@ -140,6 +140,8 @@ Day 36/100 : 9 November 2025, Sunday (≈25 mins; >1 hour❌)
 > What I do today :
 - Finally completely finish "Day7_56. " challenge by copy-paste literally, and improving it by adding import os cls, While True, and break statement to make it better than Dr. Angela (I tried at least LOL). HAPPY CODING GUYS!!
 
+* Week Number = 46
+
 Day 37/100 : 10 November 2025, Monday (≈10 mins; >1 hour❌)
 > What do I done this day :
 - I add new file for "Day7_57. " and watched a bit Day7_57. Udemy video. I'm so busy today because I must to cram all my upcoming exams for tomorrow. Happy CODING!!
