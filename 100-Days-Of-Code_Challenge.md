@@ -144,5 +144,10 @@ Day 37/100 : 10 November 2025, Monday (≈10 mins; >1 hour❌)
 > What do I done this day :
 - I add new file for "Day7_57. " and watched a bit Day7_57. Udemy video. I'm so busy today because I must to cram all my upcoming exams for tomorrow. Happy CODING!!
 
+Day 38/100 : 11 November 2025, Tuesday (≈5 mins; >1 hour❌)
+> What do I do today :
+- I try to understand "Day7_57. " challenge although I feel so sleepy and exhausted for stressful school exams. I feel very sleepy now. Happy Coding!
+
+
 
 
