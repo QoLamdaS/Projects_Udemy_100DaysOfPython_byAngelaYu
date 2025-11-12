@@ -16,6 +16,7 @@ correct_letters = []
 
 while True:
     guess = input("Guess a letter: ").lower()
+    player_lives = 6
     display = ""
 
     for letter in chosen_word:
@@ -26,6 +27,7 @@ while True:
             display += letter
         else:
             display += "_"
+
     print(display)
 
     if "_" not in display:
