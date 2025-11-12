@@ -150,6 +150,12 @@ Day 38/100 : 11 November 2025, Tuesday (≈5 mins; >1 hour❌)
 > What do I do today :
 - I try to understand "Day7_57. " challenge although I feel so sleepy and exhausted for stressful school exams. I feel very sleepy now. Happy Coding!
 
+Day 39/100 : 12 November 2025, Wednesday (≈5 mins; >1 hour❌)
+> What do I done this day :
+- I try to solve a little bit of "Day7_57. " challenge by adding a player_lives variable. Today I must studying physics and chemistry exams tomorrow and feel overwhelmed hehehehe lol.
+
+
+
 
 
 
