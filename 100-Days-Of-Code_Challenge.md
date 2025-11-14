@@ -154,6 +154,10 @@ Day 39/100 : 12 November 2025, Wednesday (≈5 mins; >1 hour❌)
 > What do I done this day :
 - I try to solve a little bit of "Day7_57. " challenge by adding a player_lives variable. Today I must studying physics and chemistry exams tomorrow and feel overwhelmed hehehehe lol.
 
+13 November 2025, Thursday : I missed Day 40/100 yesterday. Yesterday, I procrastinated a lot (old own disease LoL) by distracting myself to unnecessary tasks. Also, yesterday I got ill badly and then falling asleep accidentally again. Just STAY CONSISTENT GUYSS!!!
+
+
+
 
 
 
