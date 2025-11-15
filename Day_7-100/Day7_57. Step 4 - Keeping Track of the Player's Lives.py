@@ -1,6 +1,65 @@
 import random
 import os
 
+hangman_pics = [
+    """
+   +---+
+   |   |
+       |
+       |
+       |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+       |
+       |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+   |   |
+       |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+  /|   |
+       |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+  /|\\  |
+       |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+  /|\\  |
+  /    |
+       |
+=========""",
+    """
+   +---+
+   |   |
+   O   |
+  /|\\  |
+  / \\  |
+       |
+========="""
+]
+
 os.system("cls")
 word_list = ["aardvark", "baboon", "camel"]
 
@@ -13,10 +72,10 @@ for position in range(word_length):
 print (placeholder)
 
 correct_letters = []
+player_lives = 6
 
 while True:
     guess = input("Guess a letter: ").lower()
-    player_lives = 6
     display = ""
 
     for letter in chosen_word:
@@ -29,9 +88,18 @@ while True:
             display += "_"
 
     print(display)
+    if guess not in chosen_word:
+        player_lives -= 1
+        if player_lives == 0:
+            os.system("cls")
+            print(hangman_pics[6])
+            print("\nYou lose!!!!!!!!!!!!\n")
+            break
+        else:
+            print(hangman_pics[6 - player_lives])
+            print(f"You have {player_lives} lives left")
 
     if "_" not in display:
         os.system("cls")
+        print("\nYEAH, You win!!!!!!!!!!!!\n")
         break
-
-print("\nYEAH, You win!!!!!!!!!!!!\n")
