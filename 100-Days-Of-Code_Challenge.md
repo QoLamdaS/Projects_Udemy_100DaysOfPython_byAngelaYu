@@ -156,15 +156,11 @@ Day 39/100 : 12 November 2025, Wednesday (≈5 mins; >1 hour❌)
 
 13 November 2025, Thursday : I missed Day 40/100 yesterday. Yesterday, I procrastinated a lot (old own disease LoL) by distracting myself to unnecessary tasks. Also, yesterday I got ill badly and then falling asleep accidentally again. Just STAY CONSISTENT GUYSS!!!
 
-Day 40/100 : 14 November 2025, Thursday (≈15 mins; >1 hour❌)
+Day 40/100 : 14 November 2025, Friday (≈15 mins; >1 hour❌)
 > What I do today :
 - I already try and struggling to solve "Day7_57. " challenge. Right now I'm feel so sleepy and exhausted (I should to play some sports right now hehehe). Also, I procrastinated a bit by distractions from social medias. STAY CONSISTENT and Happy Coding!!
 
-
-
-
-
-
-
-
+Day 41/100 : 15 November 2025, Saturday (≈20 mins; >1 hour❌)
+> What I do today :
+- Finally I solve "Day7_57. " challenge by my own solutions. Finally completed "Day7_57. " ✅✅✅. TRIALS-AND-ERRORS. Happy Coding Guys!!
 
