@@ -164,3 +164,6 @@ Day 41/100 : 15 November 2025, Saturday (≈20 mins; >1 hour❌)
 > What I do today :
 - Finally I solve "Day7_57. " challenge by my own solutions. Finally completed "Day7_57. " ✅✅✅. TRIALS-AND-ERRORS. Happy Coding Guys!!
 
+Day 42/100 : 16 November 2025, Sunday (≈5 mins; >1 hour❌)
+> What I done today :
+- Trying to understand the problems of "Day7_58. " challenge or TODOs (Breaking down the problems). Unfortunately today I must to study maths exam for tomorrow. HAPPY CODING!!!
