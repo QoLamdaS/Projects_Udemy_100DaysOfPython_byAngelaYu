@@ -167,3 +167,10 @@ Day 41/100 : 15 November 2025, Saturday (≈20 mins; >1 hour❌)
 Day 42/100 : 16 November 2025, Sunday (≈5 mins; >1 hour❌)
 > What I done today :
 - Trying to understand the problems of "Day7_58. " challenge or TODOs (Breaking down the problems). Unfortunately today I must to study maths exam for tomorrow. HAPPY CODING!!!
+
+* Week = 47
+
+Day 43/100 : 17 November 2025, Monday (≈5 mins; >1 hour❌)
+> What I have done this day :
+- Copy-Paste code literally from previous file challenge to this challenge "Day7_58. ". Before I start learn to code, I have already procrastinated so much just to start and got distractions. I get a little bit random insights that  is a feature, not a bug, so we should control it how we use it wisely hehehehehe. =)
+
