@@ -61,6 +61,9 @@ hangman_pics = [
 ]
 
 os.system("cls")
+print(hangman_pics[0])
+print("\nWelcome to Hangman Game!\n")
+
 word_list = ["aardvark", "baboon", "camel"]
 
 chosen_word = random.choice(word_list)
@@ -97,7 +100,7 @@ while True:
             break
         else:
             print(hangman_pics[6 - player_lives])
-            print(f"You have {player_lives} lives left")
+            print(f"You have {player_lives} / 6 lives left")
 
     if "_" not in display:
         os.system("cls")
