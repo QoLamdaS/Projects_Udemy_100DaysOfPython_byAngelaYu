@@ -91,18 +91,23 @@ while True:
             display += "_"
 
     print(display)
-    if guess not in chosen_word:
+    if guess in correct_letters:
+        print(f"\nYou already guessed '{guess}' letter.\n")
+    elif guess not in chosen_word:
         player_lives -= 1
         if player_lives == 0:
             os.system("cls")
             print(hangman_pics[6])
             print("\nYou lose!!!!!!!!!!!!\n")
+            print(f"The word was: {chosen_word}")
             break
         else:
             print(hangman_pics[6 - player_lives])
-            print(f"You have {player_lives} / 6 lives left")
+            print(f"\nYou guessed {guess}, that's not in the word. You lose a life.")
+            print(f"You have {player_lives} / 6 lives left.\n")
 
     if "_" not in display:
         os.system("cls")
         print("\nYEAH, You win!!!!!!!!!!!!\n")
+        print(f"The word actually was: {chosen_word}")
         break
