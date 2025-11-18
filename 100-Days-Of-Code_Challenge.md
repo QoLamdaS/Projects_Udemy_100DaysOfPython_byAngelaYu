@@ -174,3 +174,9 @@ Day 43/100 : 17 November 2025, Monday (≈5 mins; >1 hour❌)
 > What I have done this day :
 - Copy-Paste code literally from previous file challenge to this challenge "Day7_58. ". Before I start learn to code, I have already procrastinated so much just to start and got distractions. I get a little bit random insights that  is a feature, not a bug, so we should control it how we use it wisely hehehehehe. =)
 
+Day 44/100 : 18 November 2025, Tuesday (≈25 mins; >1 hour❌)
+> What I have done today :
+- I solve TODO-1, 2, 3, 4, 5, and 6 on "Day7_58. " By myself successfully (Breaking down the problems into smaller parts) improving overall user experiences (UI). And finally completed entire Day 7 Course YEAY!!!!!! STAY CONSISTENT! Happy Coding guys!
+
+
+
