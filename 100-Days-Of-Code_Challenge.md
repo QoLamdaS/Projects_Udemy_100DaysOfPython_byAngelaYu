@@ -178,3 +178,8 @@ Day 44/100 : 18 November 2025, Tuesday (≈25 mins; >1 hour❌)
 > What I have done today :
 - I solve TODO-1, 2, 3, 4, 5, and 6 on "Day7_58. " By myself successfully (Breaking down the problems into smaller parts) improving overall user experiences (UI). And finally completed entire Day 7 Course YEAY!!!!!! 
 - STAY CONSISTENT! Happy Coding guys!
+
+Day 45/100 : 19 November 2025, Wednesday (≈5 mins; >1 hour❌)
+> What I do this day :
+- Only start to learn Day 8 Course Udemy by Dr. Angela. I learn a little bit for "Day8_61. ". Today I need to prepare upcoming endterm exams tomorrow. So STAY CONSISTENT!!
+
