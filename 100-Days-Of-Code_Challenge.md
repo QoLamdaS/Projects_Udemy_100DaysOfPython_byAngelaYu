@@ -189,3 +189,9 @@ Day 46/100 : 20 November 2025, Thursday (≈10 mins; >1 hour❌)
 - Today I have to prepare my math exam tomorrow. 🤯🤯🤯
 HAPPY CODING GUYS!
 
+Day 47/100 : 21 November 2025, Friday (≈5 mins; >1 hour❌)
+> What do I have done today :
+- Completed "Day8_Coding Excercise 7" challenge by my own answer.
+- Right now, I feel so exhausted and sleepy due to for putting all-nighters for today hard math exam. :/
+- Happy Learning! & Happy Coding!
+
