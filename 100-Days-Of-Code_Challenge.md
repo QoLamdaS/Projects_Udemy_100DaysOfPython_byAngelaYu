@@ -203,4 +203,11 @@ Day 48/100 : 22 November 2025, Saturday (≈70 mins ; <1 hour✅)
 - Today, I'm still 'busy??' preparing physics exam for Monday and my homeworks deadline today.
 - HAPPY LEARNING AND HAPPY CODING!
 
+Day 49/100 : 23 November 2025, Sunday (≈10 mins ; <1 hour❌)
+> What I do today :
+- I feel so 'busy' right now because I need to prepare my Physics exam tomorrow and I have no idea why I feel unproductive today
+- I only reviewed "Day8_63. " I literally have no idea.
+- Happy Learning and Coding!
+
+
 
