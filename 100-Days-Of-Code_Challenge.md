@@ -209,5 +209,12 @@ Day 49/100 : 23 November 2025, Sunday (≈10 mins ; <1 hour❌)
 - I only reviewed "Day8_63. " I literally have no idea.
 - Happy Learning and Coding!
 
+Day 50/100 : 24 November 2025, Monday (≈5 mins ; <1 hour❌)
+> What I have done this day :
+- I try to solve "Day8_63. " Project problems a little bit.
+- I feel overwhelmed with my endterm exams (I got unlucky). Procrastination is a feature, not a bug.
+- HAPPY LEARNING!!
+
+
 
 
