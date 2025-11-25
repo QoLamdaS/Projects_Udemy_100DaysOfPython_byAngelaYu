@@ -215,6 +215,12 @@ Day 50/100 : 24 November 2025, Monday (≈5 mins ; <1 hour❌)
 - I feel overwhelmed with my endterm exams (I got unlucky). Procrastination is a feature, not a bug.
 - HAPPY LEARNING!!
 
+Day 51/100 : 25 November 2025, Tuesday (≈5 mins ; <1 hour❌)
+> What I do today :
+- I only review a little bit about Python loops concept
+- Also, I feel overwhelmed with my exams and don't understand at all literally hehehehe.
+- Happy Coding!
+
 
 
 
