@@ -221,6 +221,12 @@ Day 51/100 : 25 November 2025, Tuesday (≈5 mins ; <1 hour❌)
 - Also, I feel overwhelmed with my exams and don't understand at all literally hehehehe.
 - Happy Coding!
 
+Day 52/100 : 26 November 2025, Wednesday (≈5 mins ; <1 hour❌)
+> What do I done this day :
+- Only review a little bit again about for and while loops.
+- I feel really overwhelmed with my biology exam tomorrow (Bacteria, Virus, Fungi, Protist, etc.). Time mismanagement or "procrastination is a feature, not a bug"
+- HAPPY LEARNING!
+
 
 
 
