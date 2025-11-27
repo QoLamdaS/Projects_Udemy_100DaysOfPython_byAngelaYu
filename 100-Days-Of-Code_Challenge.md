@@ -227,6 +227,9 @@ Day 52/100 : 26 November 2025, Wednesday (≈5 mins ; <1 hour❌)
 - I feel really overwhelmed with my biology exam tomorrow (Bacteria, Virus, Fungi, Protist, etc.). Time mismanagement or "procrastination is a feature, not a bug"
 - HAPPY LEARNING!
 
-
-
+Day 53/100 : 27 November 2025, Thursday (≈5 mins ; <1 hour❌)
+> What I do today
+- Only review very little bit again of list(), loops, index(), or similarly
+- I must study for my stressful chemistry endterm exam tomorrow. It's really hard =)
+- Happy Learning!
 
