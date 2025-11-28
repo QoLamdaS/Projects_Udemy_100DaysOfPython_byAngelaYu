@@ -233,3 +233,8 @@ Day 53/100 : 27 November 2025, Thursday (≈5 mins ; <1 hour❌)
 - I must study for my stressful chemistry endterm exam tomorrow. It's really hard =)
 - Happy Learning!
 
+Day 54/100 : 28 November 2025, Friday (≈5 mins ; <1 hour❌)
+> What I have done this day :
+- I feel extremely tired and exhausted, need to sleep right now
+- Review very a little bit Python previous lessons concept
+
