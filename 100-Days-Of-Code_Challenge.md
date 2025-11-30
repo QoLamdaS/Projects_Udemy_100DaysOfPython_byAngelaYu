@@ -244,3 +244,11 @@ Day 55/100 : 29 November 2025, Saturday (≈5 mins ; <1 hour❌)
 - Try to solve the problems of "Day8_63. " Project all TODOs.
 - Happy Learning!!
 
+Day 56/100 : 30 November 2025, Sunday (≈5 mins ; <1 hour❌)
+> What I have done this day :
+- I have no idea for what to code "Day8_63. " Project, feel unmotivated or maybe just tired because of endterm exams tomorrow.
+- STAY CONSISTENT!!
+
+
+
+
