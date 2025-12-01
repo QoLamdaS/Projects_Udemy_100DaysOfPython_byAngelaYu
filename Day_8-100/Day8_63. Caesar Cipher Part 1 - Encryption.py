@@ -28,3 +28,5 @@ def caesar(original_text, shift_amount, cipher_direction):
 
 result = caesar(original_text=text, shift_amount=shift, cipher_direction=direction)
 print(f"The {direction}d text is: {result}")
+
+#* DEBUGGING DONE
