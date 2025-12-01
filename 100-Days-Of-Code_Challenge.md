@@ -209,6 +209,8 @@ Day 49/100 : 23 November 2025, Sunday (≈10 mins ; <1 hour❌)
 - I only reviewed "Day8_63. " I literally have no idea.
 - Happy Learning and Coding!
 
+(*) Week = 48
+
 Day 50/100 : 24 November 2025, Monday (≈5 mins ; <1 hour❌)
 > What I have done this day :
 - I try to solve "Day8_63. " Project problems a little bit.
@@ -249,6 +251,12 @@ Day 56/100 : 30 November 2025, Sunday (≈5 mins ; <1 hour❌)
 - I have no idea for what to code "Day8_63. " Project, feel unmotivated or maybe just tired because of endterm exams tomorrow.
 - STAY CONSISTENT!!
 
+(*) Week = 49
 
+Day 57/100 : 1 December 2025, Monday (≈5 mins ; <1 hour❌)
+> 30 Days left before 2026 (New Year) :
+- Completed "Day8_63. " And "Day8_64. " Challenges at once because already included Encryption and Decryption by my 'own solutions'
+- Starting "Day8_65. " Project [finale] all TO-DOs
+- Just Stay Consistent!!
 
 
