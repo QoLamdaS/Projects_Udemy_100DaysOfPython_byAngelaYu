@@ -265,9 +265,15 @@ Day 58/100 : 2 December 2025, Tuesday (≈5 mins ; <1 hour❌)
 - I don't know why I'm so sleepy and inefficent lol =)
 - HAPPY LEARNING!
 
-Day 59/100 : 3 December 2025, Tuesday (≈5 mins ; <1 hour❌)
+Day 59/100 : 3 December 2025, Wednesday (≈5 mins ; <1 hour❌)
 > 28 Days left before 2026 :
 - Trying to solve TODO-2 problems in "Day8_65. " Project [finale]. My brain stuck =/
 - I'm a bit procrastinated. Procrastination is a feature, not a bug.
 - Happy Coding!
+
+Day 60/100 : 4 December 2025, Thursday (≈5 mins ; <1 hour❌)
+> 27 Days left before 2026 :
+- Time mismanagement and energy mismanagement for today "unproductive" learning, I feel a bit guilty and bad mood :(
+- Try to solve TODO-2 problems in "Day8_65. " Project [finale] again. My brain really can't think clearly due to energy & time mismanagement
+- STAY CONSISTENT!
 
