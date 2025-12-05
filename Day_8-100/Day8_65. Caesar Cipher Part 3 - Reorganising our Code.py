@@ -20,6 +20,8 @@ a8"     "" 88 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
               88           
 """
 print(logo)
+
+
 direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
 text = input("Type your message:\n").lower()
 shift = int(input("Type the shift number:\n"))
