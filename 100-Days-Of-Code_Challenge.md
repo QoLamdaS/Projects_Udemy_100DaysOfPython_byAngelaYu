@@ -277,7 +277,7 @@ Day 60/100 : 4 December 2025, Thursday (≈5 mins ; <1 hour❌)
 - Try to solve TODO-2 problems in "Day8_65. " Project [finale] again. My brain really can't think clearly due to energy & time mismanagement
 - STAY CONSISTENT!
 
-Day 61/100 : 4 December 2025, Thursday (≈30 mins ; <1 hour❌)
+Day 61/100 : 5 December 2025, Friday (≈30 mins ; <1 hour❌)
 > 26 Days left before 2026 :
 - Finally solved TODO-2 and TODO-3 (all completed) by my own solution in "Day8_65. " Project.
 - Finally completed Day 8 Course and built Hangman Program, I feel a bit tired and numb I don't know why.
