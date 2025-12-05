@@ -1,7 +1,7 @@
 import string
+import os
 
-lower_alphabet = list(string.ascii_lowercase)
-
+os.system("cls")
 logo = """           
  ,adPPYba, ,adPPYYba,  ,adPPYba, ,adPPYba, ,adPPYYba, 8b,dPPYba,  
 a8"     "" ""     `Y8 a8P_____88 I8[    "" ""     `Y8 88P'   "Y8  
@@ -20,11 +20,6 @@ a8"     "" 88 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
               88           
 """
 print(logo)
-
-
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
 
 def caesar(original_text, shift_amount, cipher_direction):
     end_text = ""
@@ -46,5 +41,17 @@ def caesar(original_text, shift_amount, cipher_direction):
                 end_text += char
     return end_text
 
-result = caesar(original_text=text, shift_amount=shift, cipher_direction=direction)
-print(f"The {direction}d text is: {result}")
+lower_alphabet = list(string.ascii_lowercase)
+while True:
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
+    text = input("Type your message:\n").lower()
+    shift = int(input("Type the shift number:\n"))
+    result = caesar(original_text=text, shift_amount=shift, cipher_direction=direction)
+    print(f"The {direction}d text is: {result}\n")
+    if input("Type 'yes' if you want to go again. Otherwise type 'no'.\n").lower() != 'yes':
+        os.system("cls")
+        print("\nThank you for using the Caesar Cipher program. Good Luck =\n)")
+        break
+    else:
+        print("\nCONTINUING...\n")
+        continue
