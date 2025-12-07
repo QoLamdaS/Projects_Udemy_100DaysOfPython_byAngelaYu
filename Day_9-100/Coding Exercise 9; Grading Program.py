@@ -16,5 +16,6 @@ for key in student_scores:
     else:
         student_scores[key] = "Fail"
 
-student_grades = student_scores
-print(student_grades)
+#student_grades = student_scores
+#print(student_grades)
+print(student_scores) #* Better this than actually, as it is more efficiently.
