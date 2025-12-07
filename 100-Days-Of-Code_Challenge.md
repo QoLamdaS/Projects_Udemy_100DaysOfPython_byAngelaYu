@@ -289,3 +289,10 @@ Day 62/100 6 December 2025, Friday (≈10 mins ; <1 hour❌)
 - I am procrastinating unconsciously, I spent time doing something "else"?? I feel a bit guilty.
 - HAPPY LEARNING!
 
+Day 63/100 7 December 2025, Friday (≈60 mins ; >1 hour✅)
+> 24 Days left before 2026 :
+- Solved "Coding Exercise 9"  In Day 9 course by my own solutions
+- Learned "69. " about Nesting Lists and Dictionaries and solved micro-challenges
+- Solved "Quiz 7: Python Dictionaries Quiz" by my own again
+- Just starting out "Day9_70. " Project for Day 9 Course
+- Happy Learning!
