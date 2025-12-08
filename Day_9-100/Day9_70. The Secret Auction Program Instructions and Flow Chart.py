@@ -1,2 +1,4 @@
+import os
 
-print("ff")
+os.system("cls")
+print("Welcome to the Secret Auction Program.")
