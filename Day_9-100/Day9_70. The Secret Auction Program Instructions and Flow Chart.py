@@ -1,8 +1,9 @@
 import os
 
-os.system("cls")
-print("Welcome to the Silent Auction Program.")
-logo = '''
+while True:
+    os.system("cls")
+    print("Welcome to the Silent Auction Program.")
+    logo = '''
   _______ _             _____ _ _            _                        _   _             
  |__   __| |           / ____(_) |          | |       /\             | | (_)            
     | |  | |__   ___  | (___  _| | ___ _ __ | |_     /  \  _   _  ___| |_ _  ___  _ __  
@@ -21,4 +22,21 @@ logo = '''
                        .-------------.
                       /_______________\\
 '''
-print(logo)
+    print(logo)
+    name_key = input("What is your name?: ")
+    bid_value = int(input("What is your bid?: Rp"))
+    bids = {}
+    bids[name_key] = bid_value
+    if input("Are there any other bidders? Type 'yes' or 'no'.\n").lower() == "no":
+        os.system("cls")
+        highest_bid = 0
+        winner = ""
+        for bidder in bids:
+            bid_amount = bids[bidder] # Get the bid amount for the current bidder
+            if bid_amount > highest_bid: # Check if the current bid amount is higher than the highest bid so far in dictionary
+                highest_bid = bid_amount # Update the highest amount of bid so far in dictionary earlier
+                winner = bidder # Update the highest bidder name so far in dictionary earlier 
+        print(f"\nThe winner is {winner} with a bid of Rp{highest_bid}\n")
+        break
+    else:
+        continue
