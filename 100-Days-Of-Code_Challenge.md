@@ -283,13 +283,13 @@ Day 61/100 : 5 December 2025, Friday (≈30 mins ; <1 hour❌)
 - Finally completed Day 8 Course and built Hangman Program, I feel a bit tired and numb I don't know why.
 - Happy Learning!
 
-Day 62/100 : 6 December 2025, Friday (≈10 mins ; <1 hour❌)
+Day 62/100 : 6 December 2025, Saturday (≈10 mins ; <1 hour❌)
 > 25 Days left before 2026 :
 - Watching and learning about Python Dictionary in "Day9_68. " Lesson.
 - I am procrastinating unconsciously, I spent time doing something "else"?? I feel a bit guilty.
 - HAPPY LEARNING!
 
-Day 63/100 : 7 December 2025, Friday (≈60 mins ; >1 hour✅)
+Day 63/100 : 7 December 2025, Sunday (≈60 mins ; >1 hour✅)
 > 24 Days left before 2026 :
 - Solved "Coding Exercise 9"  In Day 9 course by my own solutions
 - Learned "69. " about Nesting Lists and Dictionaries and solved micro-challenges
@@ -297,11 +297,12 @@ Day 63/100 : 7 December 2025, Friday (≈60 mins ; >1 hour✅)
 - Just starting out "Day9_70. " Project for Day 9 Course
 - Happy Learning!
 
-Day 64/100 : 8 December 2025, Friday (≈70 mins ; >1 hour✅)
+(*) Week = 50
+
+Day 64/100 : 8 December 2025, Monday (≈70 mins ; >1 hour✅)
 > 23 Days left before 2026 :
 - Completed Day 9 Course finally
 - Created Secret Auction Program for Day 9 Project
 - I don't know why do I feel 'unproductive'. I spent time doing 'something else'.
 - Happy Learning!
-
 
