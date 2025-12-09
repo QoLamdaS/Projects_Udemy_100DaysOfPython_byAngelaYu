@@ -1,2 +1,3 @@
+import os
 
-print("ff")
+os.system("cls")
