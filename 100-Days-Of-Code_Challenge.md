@@ -306,3 +306,13 @@ Day 64/100 : 8 December 2025, Monday (≈70 mins ; >1 hour✅)
 - I don't know why do I feel 'unproductive'. I spent time doing 'something else'.
 - Happy Learning!
 
+Day 65/100 : 9 December 2025, Tuesday (≈215 mins ; >1 hour✅)
+> 22 Days left before 2026 :
+- Finished Day 10 Course completely today by creating Calculator Program from my own solutions
+- OUT OF TOPIC =) , learned True Well-Being {delayed gratifications} such as workouts, learning foreign language, learn programming, sleep sufficiently [8 hours], Etc.  vs instant gratifications like scrolling TikTok, IG, or X mindlessly or eating junk food/UPFs, and similarly. Maybe can be helped =)
+- Day 11 Project Blackjack Game still in progress (25% completed)
+- I don't know why do I feel so dumb to never download and setup Pycharm Dr Angela learning from before lol. So all time, I am using only VScode to program wkwkwkwkwk. Fortunately today I download and setup Pycharm from Day 1 Course tutorial udemy =). However, I'm still love VScode for Python programming, it is so flexible, customizable, and also convenient for me hehehehehe =)
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+
+
