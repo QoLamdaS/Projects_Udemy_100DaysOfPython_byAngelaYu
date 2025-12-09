@@ -9,5 +9,5 @@ elif user_wants_to_play == "no" or user_wants_to_play == "n":
     print("\nMaybe next time!\nThank you so much!\n")
     sys.exit()
 else:
-    print("CRITICAL ERROR. Invalid input. Please restart the game and type 'yes' or 'no' only please.")
+    print("\nCRITICAL ERROR. Invalid input. Please restart the game and type 'yes' or 'no' only please.\n")
     sys.exit()
