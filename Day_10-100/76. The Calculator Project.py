@@ -14,4 +14,6 @@ mathematical_operations = {
     "/": divide
 }
 
-print(mathematical_operations["*"](n1=4, n2=8))
+#print(mathematical_operations["*"](n1=4, n2=8))
+
+
