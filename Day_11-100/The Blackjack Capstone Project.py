@@ -4,7 +4,19 @@ import sys
 os.system("cls")
 user_wants_to_play = input("Are you ready to play Blackjack? Type 'yes' or 'no': ").lower()
 if user_wants_to_play == "yes" or user_wants_to_play == "y":
-    print("testing only")
+    while True:
+        logo = """
+ _     _            _    _            _    
+| |   | |          | |  (_)          | |   
+| |__ | | __ _  ___| | ___  __ _  ___| | __
+| '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+| |_) | | (_| | (__|   <| | (_| | (__|   < 
+|_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
+                       _/ |                
+                      |__/           
+"""
+        print(logo)
+        
 elif user_wants_to_play == "no" or user_wants_to_play == "n":
     print("\nMaybe next time!\nThank you so much!\n")
     sys.exit()
