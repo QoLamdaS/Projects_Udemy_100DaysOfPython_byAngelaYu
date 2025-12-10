@@ -1,7 +1,3 @@
-
-#! Honestly, I "give up" to fix some minor bugs in this code for a while now.
-#! But I decided to 'complete' it as is. Most importantly, I grasp all core concepts from previous lessons and understand game core logic. =)
-
 import os
 import sys
 import random
