@@ -3,12 +3,12 @@ import sys
 import random
 
 def deal_card():
-    '''Random early cards generator'''
+    """Random early cards generator"""
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     return random.choice(cards)
 
 def score_calculation(cards):
-    '''Blackjack score calculation, rules translated to Py code'''
+    """Blackjack score calculation, rules translated to Py code"""
     if sum(cards) == 21 and len(cards) == 2:
         return 0
     if 11 in cards and sum(cards) > 21:
