@@ -2,6 +2,17 @@ import os
 import sys
 import random
 
+Blackjack_logo = """
+ _     _            _    _            _    
+| |   | |          | |  (_)          | |   
+| |__ | | __ _  ___| | ___  __ _  ___| | __
+| '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
+| |_) | | (_| | (__|   <| | (_| | (__|   < 
+|_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
+                       _/ |                
+                      |__/           
+"""
+
 def deal_card():
     """Random early cards generator"""
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
@@ -41,4 +52,9 @@ def compare(user_score, comp_dealer_score):
 
 # user_score = score_calculation(user_card)
 # comp_dealer_score = score_calculation(comp_dealer_card)
+
+def clear():
+    """Clear the console screen for very first time run terminal. SIMPLE: for UI very first time run the program."""
+    os.system("cls" if os.name == "nt" else "clear")
+
 
