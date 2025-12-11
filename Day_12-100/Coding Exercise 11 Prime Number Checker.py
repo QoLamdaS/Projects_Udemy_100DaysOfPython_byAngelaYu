@@ -1,2 +1,2 @@
-
-print("ff")
+def is_prime(num):
+    
