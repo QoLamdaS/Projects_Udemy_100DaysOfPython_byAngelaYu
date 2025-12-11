@@ -315,10 +315,19 @@ Day 65/100 : 9 December 2025, Tuesday (≈215 mins ; >1 hour✅)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
 
-Day 66/100 : 10 December 2025, Wednesday (≈ 150mins ; >1 hour✅)
+Day 66/100 : 10 December 2025, Wednesday (≈150mins ; >1 hour✅)
 > 21 Days left before 2026 :
 - Still working Day 11 Project Blackjack Capstone Game (80% finished).
 - Frustrated for debugging and fixing bugs. My brain is exploding lol.
 - I feel extremely exhausted to just blink my eyes.
 - Happy Learning! fds
+
+Day 67/100 : 11 December 2025, Thursday (≈141 mins ; >1 hour✅)
+> 20 Days left before 2026 :
+- SIX SEVEN (TikTok Brainrot wkwkwkwkwkwk) just kidding =)
+- Finally finished Blackjack Capstone Game Day 11 Project with bug-free, I rewrite the code almost entirely to make it work
+- Half-way to finish Day 12, finished Coding exercise 11, I learned global and local namespaces and also "block scope" and recommended ways to write global variables, and I just starting out to work Day 12 Project.
+- I am 'a bit' procrastinated to learn Python by distracting myself watching my favorite anime hehehehe =)
+- I feel sleepy and tired. Sleep 8 hours is important guys! I trying to achieve sufficient sleep.
+- HAPPY LEARNING AND HAPPY CODING!!!!!!!
 
