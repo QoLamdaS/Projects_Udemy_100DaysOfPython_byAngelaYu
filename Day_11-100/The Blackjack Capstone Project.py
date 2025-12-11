@@ -54,7 +54,7 @@ def compare(user_score, comp_dealer_score):
 # comp_dealer_score = score_calculation(comp_dealer_card)
 
 def clear():
-    """Clear the console screen for very first time run terminal. SIMPLE: for UI very first time run the program."""
+    """Function to clear the console screen cross-platform"""
     os.system("cls" if os.name == "nt" else "clear")
 
 
