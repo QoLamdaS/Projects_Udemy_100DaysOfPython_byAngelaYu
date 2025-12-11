@@ -57,4 +57,13 @@ def clear():
     """Function to clear the console screen cross-platform"""
     os.system("cls" if os.name == "nt" else "clear")
 
+clear()
+User_wants_to_play = input("Do you want to play a game of Blackjack? Type 'yes' or 'no': ").lower()
+if User_wants_to_play == "no" or User_wants_to_play == "n":
+    print("\nMaybe next time!\nThank you so much! =)\n")
+    sys.exit()
+
+print("MAIN GAME")
+
+
 
