@@ -331,3 +331,10 @@ Day 67/100 : 11 December 2025, Thursday (≈141 mins ; >1 hour✅)
 - I feel sleepy and tired. Sleep 8 hours is important guys! I trying to achieve sufficient sleep.
 - HAPPY LEARNING AND HAPPY CODING!!!!!!!
 
+Day 68/100 : 12 December 2025, Friday (≈10 mins ; <1 hour❌)
+> 19 Days left before 2026 :
+- I'm procrastinating so long to learn Python. I have no idea, maybe I have other 'busyness'. I feel guilty 🥹🥹🥹
+- Just working a little bit for Day 12 Project
+- Happy Learning!!
+
+
