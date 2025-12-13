@@ -337,4 +337,10 @@ Day 68/100 : 12 December 2025, Friday (≈10 mins ; <1 hour❌)
 - Just working a little bit for Day 12 Project
 - Happy Learning!!
 
+Day 69/100 : 13 December 2025, Saturday (≈5 mins ; <1 hour❌)
+> 18 Days left before 2026 :
+- I'm a bit procrastinated to learn Python programming earlier hehehehe =)
+- I only reviewed about Python function and loop concepts
+- I spending my time to hangout and reunite with my old friends almost full a day. It's worth it I think =)
+- Happy Learning!!
 
