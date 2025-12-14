@@ -344,3 +344,12 @@ Day 69/100 : 13 December 2025, Saturday (≈5 mins ; <1 hour❌)
 - I spending my time to hangout and reunite with my old friends almost full a day. It's worth it I think =)
 - Happy Learning!!
 
+Day 70/100 : 14 December 2025, Sunday (≈130 mins ; >1 hour✅)
+> 17 Days left before 2026 :
+- Today I completed final Day 12 Project by creating The Number Guessing Game
+- I finished Day 13 Course about debugging. Solved Coding Exercise 12, 13, and 14 by my own solution.
+- I don't know why do I feel a bit unmotivated and lazy/sluggish =). But most importantly, keep consistent!!
+- HAPPY LEARNING!
+- HAPPY CODING!
+
+
