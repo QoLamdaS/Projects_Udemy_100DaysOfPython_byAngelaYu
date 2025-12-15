@@ -9,8 +9,13 @@ print(logo)
 score = 0
 while True:
     option_a = random.choice(data)
-    option_b = random.choice(data)
-    if option_a == option_b:
+    while True:
+        option_b = random.choice(data)
+        while option_a == option_b:
+            option_b = random.choice(data)
+        break
+    
+    while option_a == option_b:
         option_b = random.choice(data)
     print(f"Compare A: {option_a['name']}, a {option_a['description']}, from {option_a['country']}.")
     print(vs)
@@ -22,9 +27,10 @@ while True:
         correct_answer = "B"
     if user_guess == correct_answer:
         score += 1
+        option_a = option_b
         os.system('cls' if os.name == 'nt' else 'clear')
         print(logo)
-        print(f"CORRECT! You're current score is: {score}.\n")
+        print(f"CORRECT! Your current score is: {score}.\n")
         continue
     else:
         os.system('cls' if os.name == 'nt' else 'clear')
