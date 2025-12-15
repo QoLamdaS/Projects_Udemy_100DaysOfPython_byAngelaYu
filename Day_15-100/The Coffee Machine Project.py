@@ -1,4 +1,4 @@
-
+import os
 
 MENU = {
     "espresso": {
@@ -31,4 +31,8 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
+
+os.system('cls' if os.name == 'nt' else 'clear')
+print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
+
 
