@@ -362,6 +362,12 @@ Day 71/100 : 15 December 2025, Monday (≈120 mins ; >1 hour✅)
 - I don't know why do I feel a bit sluggish and lazy to learn programming. Maybe boredom or today I feel unlucky maybe?? he he he =). But importantly, keep consistent learning!!
 - HAPPY CODING!
 - Happy Learning!
- 
 
-
+Day 72/100 : 16 December 2025, Tuesday (≈ mins ; 1 hour)
+> 16 Days left before 2026 :
+- Finally finished working Day 15 Project the Virtual Coffee Machine Program bug-free and without peeking the solutions. I feel it really challenging and a bit frustrating for me in debugging parts. It's time consuming I think.
+- I am learning about all core concepts about OOP Python on Day 16 Course. Honestly I feel can't understand the concepts he he he =). Maybe OOP [intermediate] requires significant thinking shift from Procedural Programming [beginner]
+- I don't know why do I feel sluggish and lack of energy for learning OOP. Maybe I'm just feeling exhausted for my urgent tasks (or maybe a form of procrastination??) and programming for Day 15 Project.
+- Exercise regularly and sleep sufficient are so important guys!!
+- Happy Learning!
+- HAPPY CODING!
