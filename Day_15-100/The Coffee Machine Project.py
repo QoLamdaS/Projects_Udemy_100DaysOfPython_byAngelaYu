@@ -1,6 +1,5 @@
 import os
 import sys
-from benedict import benedict
 
 MENU = {
     "espresso": {
@@ -38,7 +37,7 @@ def ingredients_sufficiency(order_ingredients):
     """Returns True when order can be made, False if ingredients are insufficient to make 
     before running process_coins() function."""
     for item in order_ingredients:
-        if order_ingredients[item] > resources.get(item, 0):
+        if order_ingredients[item] > machine_starting_resources.get(item, 0):
             print(f"Sorry there is not enough {item}.")
             return False
     return True
@@ -57,7 +56,10 @@ print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
 
 while True:
     user_wants = input("What would you like? (espresso/latte/cappuccino) or maybe 'off' and 'report': ").lower()
-    if 
+    if user_wants == "report":
+        print(f"\nWater: {machine_starting_resources['water']}ml")
+        print(f"Milk: {machine_starting_resources['milk']}ml")
+        print(f"Coffee: {machine_starting_resources['coffee']}g\n")
     
     else:
         print("\nTurning off the coffee machine. Goodbye!\n")
