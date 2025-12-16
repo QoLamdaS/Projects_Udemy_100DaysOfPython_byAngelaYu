@@ -30,8 +30,7 @@ MENU = {
 machine_starting_resources = {
     "water": 300,
     "milk": 200,
-    #"coffee": 100,
-    "coffee": 20,
+    "coffee": 100,
 }
 
 def ingredients_sufficiency(order_ingredients):
@@ -54,6 +53,7 @@ def process_coins():
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
+
 machine_profit = 0.0
 while True:
     user_wants = input("What would you like? (espresso/latte/cappuccino) or maybe 'off' and 'report': ").lower()
@@ -68,16 +68,38 @@ while True:
                 for item in MENU[user_wants]["ingredients"]:
                     machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
                 print(f"Here is your☕'{user_wants}'☕️. Enjoy!")
-        else:
-            pass
-    
+    elif user_wants == "latte":
+        if ingredients_sufficiency(MENU[user_wants]["ingredients"]) == True:
+            user_coins = process_coins()
+            if user_coins < MENU[user_wants]["cost"]:
+                print("Sorry that's not enough money. Money refunded.")
+            else:
+                print(f"Here is ${user_coins - MENU[user_wants]['cost']} in change.")
+                machine_profit += MENU[user_wants]["cost"]
+                for item in MENU[user_wants]["ingredients"]:
+                    machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
+                print(f"Here is your☕'{user_wants}'☕️. Enjoy!")
+    elif user_wants == "cappuccino":
+        if ingredients_sufficiency(MENU[user_wants]["ingredients"]) == True:
+            user_coins = process_coins()
+            if user_coins < MENU[user_wants]["cost"]:
+                print("Sorry that's not enough money. Money refunded.")
+            else:
+                print(f"Here is ${user_coins - MENU[user_wants]['cost']} in change.")
+                machine_profit += MENU[user_wants]["cost"]
+                for item in MENU[user_wants]["ingredients"]:
+                    machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
+                print(f"Here is your☕'{user_wants}'☕️. Enjoy!")
+
     elif user_wants == "report":
         print(f"\nWater: {machine_starting_resources['water']}ml")
         print(f"Milk: {machine_starting_resources['milk']}ml")
         print(f"Coffee: {machine_starting_resources['coffee']}g")
         print(f"Money: ${machine_profit}\n")
-    
-    else:
+    elif user_wants == "off":
         print("\nTurning off the coffee machine. Goodbye!\n")
         sys.exit()
+    else:
+        print("Invalid input. Please try again.")
+        continue
 
