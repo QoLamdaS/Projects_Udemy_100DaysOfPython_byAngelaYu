@@ -56,10 +56,22 @@ print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
 
 while True:
     user_wants = input("What would you like? (espresso/latte/cappuccino) or maybe 'off' and 'report': ").lower()
-    if user_wants == "report":
+    if user_wants == "espresso":
+        ingredients_sufficiency(MENU[user_wants]["ingredients"])
+        user_coins = process_coins()
+        if user_coins < MENU[user_wants]["cost"]:
+            print("Sorry that's not enough money. Money refunded.")
+        else:
+            print(f"Here is ${user_coins - MENU[user_wants]['cost']} in change.")
+            for item in MENU[user_wants]["ingredients"]:
+                machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
+            print(f"Here is your {user_wants} ☕️. Enjoy!")
+    
+    elif user_wants == "report":
         print(f"\nWater: {machine_starting_resources['water']}ml")
         print(f"Milk: {machine_starting_resources['milk']}ml")
         print(f"Coffee: {machine_starting_resources['coffee']}g\n")
+        
     
     else:
         print("\nTurning off the coffee machine. Goodbye!\n")
