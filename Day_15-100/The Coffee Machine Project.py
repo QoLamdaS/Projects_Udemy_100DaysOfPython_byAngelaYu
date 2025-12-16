@@ -1,5 +1,6 @@
 import os
 import sys
+from benedict import benedict
 
 MENU = {
     "espresso": {
@@ -27,13 +28,11 @@ MENU = {
     }
 }
 
-resources = {
+machine_starting_resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
 }
-
-
 
 def ingredients_sufficiency(order_ingredients):
     """Returns True when order can be made, False if ingredients are insufficient to make 
