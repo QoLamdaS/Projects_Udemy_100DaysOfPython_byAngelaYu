@@ -1,4 +1,5 @@
 import os
+import sys
 
 MENU = {
     "espresso": {
@@ -34,5 +35,8 @@ resources = {
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
-
+user_wants = input("What would you like? (espresso/latte/cappuccino) or maybe 'off' and 'report': ").lower()
+if user_wants == "off":
+    print("Turning off the coffee machine. Goodbye!")
+    sys.exit()
 
