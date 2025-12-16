@@ -1,0 +1,1 @@
+another_variable = "\nONLY FOR EXAMPLE\n"
