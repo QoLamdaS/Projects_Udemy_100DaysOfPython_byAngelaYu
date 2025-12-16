@@ -53,7 +53,7 @@ def process_coins():
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print("Welcome to the 'VIRTUAL' Coffee Machine Program!\n")
-
+machine_profit = 0.0
 while True:
     user_wants = input("What would you like? (espresso/latte/cappuccino) or maybe 'off' and 'report': ").lower()
     if user_wants == "espresso":
@@ -63,6 +63,7 @@ while True:
             print("Sorry that's not enough money. Money refunded.")
         else:
             print(f"Here is ${user_coins - MENU[user_wants]['cost']} in change.")
+            machine_profit += MENU[user_wants]["cost"]
             for item in MENU[user_wants]["ingredients"]:
                 machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
             print(f"Here is your {user_wants} ☕️. Enjoy!")
@@ -71,6 +72,8 @@ while True:
         print(f"\nWater: {machine_starting_resources['water']}ml")
         print(f"Milk: {machine_starting_resources['milk']}ml")
         print(f"Coffee: {machine_starting_resources['coffee']}g\n")
+        print(f"Money: ${machine_profit}\n")
+        
         
     
     else:
