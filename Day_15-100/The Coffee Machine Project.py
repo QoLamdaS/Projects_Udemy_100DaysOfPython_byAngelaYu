@@ -67,7 +67,7 @@ while True:
                 machine_profit += MENU[user_wants]["cost"]
                 for item in MENU[user_wants]["ingredients"]:
                     machine_starting_resources[item] -= MENU[user_wants]["ingredients"][item]
-                print(f"Here is your {user_wants} ☕️. Enjoy!")
+                print(f"Here is your☕'{user_wants}'☕️. Enjoy!")
         else:
             pass
     
@@ -76,8 +76,6 @@ while True:
         print(f"Milk: {machine_starting_resources['milk']}ml")
         print(f"Coffee: {machine_starting_resources['coffee']}g")
         print(f"Money: ${machine_profit}\n")
-        
-        
     
     else:
         print("\nTurning off the coffee machine. Goodbye!\n")
