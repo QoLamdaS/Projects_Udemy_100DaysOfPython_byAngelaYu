@@ -371,3 +371,14 @@ Day 72/100 : 16 December 2025, Tuesday (≈220 mins ; >1 hour✅)
 - Exercise regularly and sleep sufficient are so important guys!!
 - Happy Learning!
 - HAPPY CODING!
+
+Day 73/100 : 17 December 2025, Wednesday (≈300 mins ; >1 hour✅)
+> 15 Days left before 2026 :
+- Finally completed Day 16 Project creating VIRTUAL Coffee Machine Program but OOP version
+- Day 17 Course I learned how to create Classes and def __init__(self): from scratch (finally completed Lecture 122. after long struggling)
+- The OOP concepts very frustrating for me, but fortunately I can manage that frustrations and struggles about learning OOP concepts. OOP requires a major mindset shift from procedural thinking (beginner) I think supposedly.
+- I don't know why, I'm trying to accept that half-understanding is actually okay as long as not "errors". Half-understanding bcs human brain capacity is limited he he he =). So "Stay shallow by default. Go deep on demand." -internet??? <- A realistic mindset for a programmer??
+- Honestly I feel lazy and tired to write this wkwkwkwkwkwk
+- Happy Learning!!
+- HAPPY CODING!!
+
