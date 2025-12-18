@@ -382,3 +382,10 @@ Day 73/100 : 17 December 2025, Wednesday (≈300 mins ; >1 hour✅)
 - Happy Learning!!
 - HAPPY CODING!!
 
+Day 74/100 : 18 December 2025, Thursday (≈70 mins ; >1 hour✅)
+> 14 Days left before 2026 :
+- I finished Day 17 Course by creating Quiz Game Project OOP Version bug-free 'looks like' =)
+- I have no idea what I'm writing the code for Day 17 Project
+- I half-understand about def __init__(self): inside OOP concepts. "Stay shallow by default, go deep on demand" -unknowm.
+- I have other responsiblities today so I can't learn programming long for today.
+- HAPPY LEARNING! & HAPPY CODING!
