@@ -1,5 +1,4 @@
-question_data = [
-    {
+question_data = {
   "response_code": 0,
   "results": [
     {
@@ -84,4 +83,3 @@ question_data = [
     }
   ]
 }
-]
