@@ -391,6 +391,7 @@ Day 74/100 : 18 December 2025, Thursday (≈70 mins ; >1 hour✅)
 - HAPPY LEARNING! & HAPPY CODING!
 
 Day 75/100 : 19 December 2025, Friday (≈20 mins ; <1 hour❌)
+> 13 Days left before 2026 :
 - I progress Day 18 Course a little bit.
 - I feel lazy a bit and so busy today due to other sudden and important obligations & other commitments for me before going to vacation tomorrow. Yeay!! =)
 - STAY CONSISTENT!!
