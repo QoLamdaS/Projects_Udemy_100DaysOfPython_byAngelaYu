@@ -389,3 +389,8 @@ Day 74/100 : 18 December 2025, Thursday (≈70 mins ; >1 hour✅)
 - I half-understand about def __init__(self): inside OOP concepts. "Stay shallow by default, go deep on demand" -unknowm.
 - I have other responsiblities today so I can't learn programming long for today.
 - HAPPY LEARNING! & HAPPY CODING!
+
+Day 75/100 : 19 December 2025, Friday (≈20 mins ; <1 hour❌)
+- I progress Day 18 Course a little bit.
+- I feel lazy a bit and so busy today due to other sudden and important obligations & other commitments for me before going to vacation tomorrow. Yeay!! =)
+- STAY CONSISTENT!!
