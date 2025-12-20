@@ -395,3 +395,10 @@ Day 75/100 : 19 December 2025, Friday (≈20 mins ; <1 hour❌)
 - I progress Day 18 Course a little bit.
 - I feel lazy a bit and so busy today due to other sudden and important obligations & other commitments for me before going to vacation tomorrow. Yeay!! =)
 - STAY CONSISTENT!!
+
+Day 76/100 : 20 December 2025, Saturday (≈5 mins ; <1 hour❌)
+> 12 Days left before 2026 : (I'm taking a vacation outside my hometown)
+- I am taking holiday starting by today morning (busy). So I hardly to program Python codes on my Android =)
+- I only reviewed about OOP concepts Python a little bit. I'm busy today for vacation hehehehe.
+- Stay Consistent!!
+
