@@ -402,3 +402,9 @@ Day 76/100 : 20 December 2025, Saturday (≈5 mins ; <1 hour❌)
 - I only reviewed about OOP concepts Python a little bit. I'm busy today for vacation hehehehe.
 - Stay Consistent!!
 
+Day 77/100 : 21 December 2025, Sunday (≈5 mins ; <1 hour❌)
+> 11 Days left before 2026 : (Still in a vacation outside my hometown)
+- Hardly to learn programming Python effectively without PC/Laptop. It's ineffective to truly learn programming from my Android wkwkwkwkw =)
+- I'm only reviewed on Lecture 130. Day 18 Course about types of "Importing Modules" Python.
+- Stay Consistent!!
+
