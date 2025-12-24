@@ -421,4 +421,10 @@ Day 79/100 : 23 December 2025, Tuesday (≈5 mins ; <1 hour❌)
 - Only reviewed a little bit about OOP and Importing Modules on Lecture 130. Day 18 Course
 - Stay Consistent!!
 
+Day 80/100 : 24 December 2025, Wednesday (≈5 mins ; <1 hour❌)
+> 8 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Still difficult to learn Programming effectively/efficiently in my vacation. Just Showing Up.
+- Only reviewed previous lessons Python and the task/challenge of Lecture 131. Day 18 Course.
+- Honestly I really have no idea how to learn programming effectively without PC/Laptop and slow internet connection wkwkwkwkw =) {Can't open VScode nor Chrome Browser with lag internet:( }
+- STAY CONSISTENT!!
 
