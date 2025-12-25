@@ -428,3 +428,10 @@ Day 80/100 : 24 December 2025, Wednesday (≈5 mins ; <1 hour❌)
 - Honestly I really have no idea how to learn programming effectively without PC/Laptop and slow internet connection wkwkwkwkw =) {Can't open VScode nor Chrome Browser with lag internet:( }
 - STAY CONSISTENT!!
 
+Day 81/100 : 25 December 2025, Thursday (≈5 mins ; <1 hour❌)
+> 7 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Just Showing Up even during my vacation without PC/laptop or stable internet =)
+- Quick review for some basic concepts Python particularly list, dictionaries, loops, Local Scope & Global Scope {def (): }. I have no idea to learn programming effectively.
+- Merry Xmas all guys 🎄🎅🎁🦌🛷🔔🕯️🌟☃️
+- Happy Learning and Stay Consistent!!
+
