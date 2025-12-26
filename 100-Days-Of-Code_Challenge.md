@@ -435,3 +435,9 @@ Day 81/100 : 25 December 2025, Thursday (≈5 mins ; <1 hour❌)
 - Merry Xmas all guys 🎄🎅🎁🦌🛷🔔🕯️🌟☃️
 - Happy Learning and Stay Consistent!!
 
+Day 82/100 : 26 December 2025, Friday (≈5 mins ; <1 hour❌)
+> 6 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Just Showing Up again.
+- I reviewed some basic concepts Python again.
+- I have no idea how to learn Python effectively during my vacation outside my hometown without PC/Laptop and slow internet connection. To learn effectively it should be Project-Based by working on VScode and googling Chrome Browser supposedly. So maybe enjoying my vacation is more productive instead hehehehe =)
+- Stay Consistent!!
