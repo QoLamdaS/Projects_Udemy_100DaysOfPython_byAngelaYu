@@ -441,3 +441,11 @@ Day 82/100 : 26 December 2025, Friday (≈5 mins ; <1 hour❌)
 - I reviewed some basic concepts Python again.
 - I have no idea how to learn Python effectively during my vacation outside my hometown without PC/Laptop and slow internet connection. To learn effectively it should be Project-Based by working on VScode and googling Chrome Browser supposedly. So maybe enjoying my vacation is more productive instead hehehehe =)
 - Stay Consistent!!
+
+Day 83/100 : 27 December 2025, Saturday (≈5 mins ; <1 hour❌)
+> 5 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Just Showing Again 2x.
+- Reviewed basic concepts Python again 2x.
+- Today I feel very sluggish and unmotivated somehow
+- I really have no idea to learn Python effectively on my Android and slow internet. Maybe just enjoy the vacation instead =)
+- STAY CONSISTENT!!
