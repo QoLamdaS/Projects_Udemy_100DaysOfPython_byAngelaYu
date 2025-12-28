@@ -449,3 +449,9 @@ Day 83/100 : 27 December 2025, Saturday (≈5 mins ; <1 hour❌)
 - Today I feel very sluggish and unmotivated somehow
 - I really have no idea to learn Python effectively on my Android and slow internet. Maybe just enjoy the vacation instead =)
 - STAY CONSISTENT!!
+
+Day 84/100 : 28 December 2025, Sunday (≈5 mins ; <1 hour❌)
+> 4 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Just Showing Up by quick review about OOP concepts Python again. I really have no idea how to learn effectively without PC/Laptop and slow internet
+- I also very busy today for bonding my close families.
+- STAY CONSISTENT!!
