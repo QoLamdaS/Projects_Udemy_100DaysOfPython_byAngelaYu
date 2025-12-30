@@ -456,9 +456,16 @@ Day 84/100 : 28 December 2025, Sunday (≈5 mins ; <1 hour❌)
 - I also very busy today for bonding my close families.
 - STAY CONSISTENT!!
 
-Day 85/100: 29 December 2025, Monday (≈5 mins ; <1 hour❌)
+Day 85/100 : 29 December 2025, Monday (≈5 mins ; <1 hour❌)
 > 3 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
 - Just Showing Up again
 - Today, I got sick Common Cold moderately. I feel I can't focus efficiently.🤢🤧🤒
 - Reread the tasks of Lecture 131. Day 18 Course ineffectively.
 - Stay Consistent!!
+
+Day 86/100 : 30 December 2025, Tuesday (≈5 mins ; <1 hour❌)
+> 2 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- Just Showing Up again
+- I got sick Sore Throat (Common Cold) severely. I really can't focus and so dizzy.🤢🤒
+- Only review about OOP concepts Python again
+- STAY CONSISTENT!!
