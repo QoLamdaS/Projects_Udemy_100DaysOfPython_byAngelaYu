@@ -408,6 +408,8 @@ Day 77/100 : 21 December 2025, Sunday (≈5 mins ; <1 hour❌)
 - I'm only reviewed on Lecture 130. Day 18 Course about types of "Importing Modules" Python.
 - Stay Consistent!!
 
+(*) Week = 52
+
 Day 78/100 : 22 December 2025, Monday (≈5 mins ; <1 hour❌)
 > 10 Days left before 2026 :🧳(Still in a vacation outside my hometown)✈️
 - Still hard to learn programming effectively during my vacation. The internet connection speed so laggy =)
@@ -469,3 +471,10 @@ Day 86/100 : 30 December 2025, Tuesday (≈5 mins ; <1 hour❌)
 - I got sick Sore Throat (Common Cold) severely. I really can't focus and so dizzy.🤢🤒
 - Only review about OOP concepts Python again
 - STAY CONSISTENT!!
+
+Day 87/109 : 31 December 2025, Wednesday (≈5 mins ; <1 hour❌)
+> 1 Day left before 2026 :🧳(Still in a vacation outside my hometown)✈️
+- New Year's Even; Silvester💥💥💥
+- Last day before 2026 =)
+- Only reviewed again about OOP Python concepts ineffectively + inefficiently during my vacation :(
+- Stay Consistent!
