@@ -472,9 +472,17 @@ Day 86/100 : 30 December 2025, Tuesday (≈5 mins ; <1 hour❌)
 - Only review about OOP concepts Python again
 - STAY CONSISTENT!!
 
-Day 87/109 : 31 December 2025, Wednesday (≈5 mins ; <1 hour❌)
+Day 87/100 : 31 December 2025, Wednesday (≈5 mins ; <1 hour❌)
 > 1 Day left before 2026 :🧳(Still in a vacation outside my hometown)✈️
-- New Year's Even; Silvester💥💥💥
+- New Year's Eve; Silvester💥💥💥
 - Last day before 2026 =)
 - Only reviewed again about OOP Python concepts ineffectively + inefficiently during my vacation :(
 - Stay Consistent!
+
+Day 88/100 : 1 January 2025, Thursday (≈5 mins ; <1 hour❌)
+> Happy New Year 2026🎉🎉🎊🎊🎆🎆🎇🎇 :🧳(Still in a vacation outside my hometown)✈️
+- Very quick review about OOP concepts ineffectively again.
+- I really busy today REALLL.
+- Happy Coding!
+- Happy Learning!
+- STAY CONSISTENT!
