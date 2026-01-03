@@ -487,10 +487,18 @@ Day 88/100 : 1 January 2026, Thursday (≈5 mins ; <1 hour❌)
 - Happy Learning!
 - STAY CONSISTENT!
 
-Day 89/100 : 2 January 2026, Friday (≈30 mins ; 1 hour)
+Day 89/100 : 2 January 2026, Friday (≈30 mins ; <1 hour❌)
 > Finally programming again with my VScode hehehehe =) [COMEBACK]
 - Back to normal day :( {I missed my vacation nooo}
 - Completed Lecture 131. Day 18 Course challenge with a better solution through googling
 - Trying to solve Lecture 132. Challenge on Day 18
 - I feel so tired lol.
 - HAPPY CODING! & HAPPY LEARNING!
+
+Day 90/100 : 3 January 2026, Saturday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Fixed some errors on my VScode (not working properly)
+- Solved Lecture 132. Challenge Day 18 creating random color multiple basic shapes Turtle by my own solution 
+- Today I have hangout arrangement with my friends so I programming less today. And then I feel tired
+- Happy Learning!!
+- Happy Coding!!
