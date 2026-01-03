@@ -1,7 +1,7 @@
-from turtle import Turtle
-from turtle import Screen
+import turtle
 
-a_turtle = Turtle()
+a_turtle = turtle.Turtle()
+the_screen = turtle.Screen()
 a_turtle.shape("turtle")
 a_turtle.color("red4")
 # for _ in range(4):
@@ -25,5 +25,4 @@ def draw_dash_line(dash_length, space_length, total_dashes):
 
 draw_dash_line(10, 10, 15)
 
-the_screen = Screen()
-the_screen.exitonclick()
+the_screen.mainloop()
