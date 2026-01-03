@@ -22,7 +22,17 @@ def draw_dash_line(dash_length, space_length, total_dashes):
         a_turtle.forward(dash_length)
         a_turtle.penup()         # Stop drawing
         a_turtle.forward(space_length)
+def custom_shape(sides):
+    angle = 360 / sides
+    for _ in range(sides):
+        a_turtle.forward(100)
+        a_turtle.right(angle)
 
-draw_dash_line(10, 10, 15)
+custom_shape(3)
+
+
+
+
+# draw_dash_line(10, 10, 15)
 
 the_screen.mainloop()
