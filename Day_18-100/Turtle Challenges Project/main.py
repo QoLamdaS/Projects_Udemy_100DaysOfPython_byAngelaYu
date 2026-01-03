@@ -1,12 +1,9 @@
 import turtle
+import random
 
 a_turtle = turtle.Turtle()
 the_screen = turtle.Screen()
 a_turtle.shape("turtle")
-a_turtle.color("red4")
-# for _ in range(4):
-#     a_turtle.forward(100)
-#     a_turtle.right(90)
 
 def draw_dash_line(dash_length, space_length, total_dashes):
     """
@@ -24,11 +21,14 @@ def draw_dash_line(dash_length, space_length, total_dashes):
         a_turtle.forward(space_length)
 def custom_shape(sides):
     angle = 360 / sides
+    a_turtle.color(random.choice(["red", "blue", "green", "yellow", "purple", "orange"]))
     for _ in range(sides):
         a_turtle.forward(100)
         a_turtle.right(angle)
 
-custom_shape(3)
+for i in range(3, 11):
+    custom_shape(i)
+
 
 
 
