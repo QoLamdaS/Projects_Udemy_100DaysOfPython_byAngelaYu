@@ -502,3 +502,10 @@ Day 90/100 : 3 January 2026, Saturday (≈25 mins ; <1 hour❌)
 - Today I have hangout arrangement with my friends so I programming less today. And then I feel tired
 - Happy Learning!!
 - Happy Coding!!
+
+Day 91/100 : 4 January 2026, Sunday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Solved Lecture 132. Challenge Day 18 by creating random walk turtle
+- Almost solved Lecture 133. Challenge. I don't know where the root of the error is.
+- Today, I feel so exhausted I don't know why. I feel so unmotivated to do.
+- Happy Coding!!
