@@ -10,16 +10,16 @@ def random_colors():
     return color
 
 directions = [0, 90, 180, 270]
-a_turtle = turtle.Turtle()
+t = turtle.Turtle()
 the_screen = turtle.Screen()
-a_turtle.shape("turtle")
-a_turtle.pensize(25)
-a_turtle.speed(0)
+t.shape("turtle")
+t.pensize(25)
+t.speed(0)
 
 for _ in range(200):
-    a_turtle.color(random_colors()) # NOW WORKS!!!!!!!
-    a_turtle.setheading(random.choice(directions))
-    a_turtle.forward(30)
+    t.color(random_colors()) # NOW WORKS!!!!!!!
+    t.setheading(random.choice(directions))
+    t.forward(30)
 
 
 the_screen.mainloop()
