@@ -509,3 +509,10 @@ Day 91/100 : 4 January 2026, Sunday (≈25 mins ; <1 hour❌)
 - Almost solved Lecture 133. Challenge. I don't know where the root of the error is.
 - Today, I feel so exhausted I don't know why. I feel so unmotivated to do.
 - Happy Coding!!
+
+Day 92/100 : 5 January 2026, Monday (≈25 mins ; <1 hour❌)
+> What have I do today :
+- Solved the error for generating random RGB colors for Python Turtle in Lecture 134 Day 18 by setting the first for Turtle to accept RGB value from 0-255
+- Solved Lecture 135 Day 18 Challenge by my own drawing a Spirograph Python Turtle, even though my solution is simpler but unmaintainable than Dr. Yu's solution, which is more readable and maintaiable wkwkwkwkwkwk
+- Back to normal routine (back to school).
+- HAPPY CODING!!
