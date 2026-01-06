@@ -516,3 +516,9 @@ Day 92/100 : 5 January 2026, Monday (≈25 mins ; <1 hour❌)
 - Solved Lecture 135 Day 18 Challenge by my own drawing a Spirograph Python Turtle, even though my solution is simpler but unmaintainable than Dr. Yu's solution, which is more readable and maintaiable wkwkwkwkwkwk
 - Back to normal routine (back to school).
 - HAPPY CODING!!
+
+Day 93/100 : 6 January 2026, Tuesday (≈35 mins ; <1 hour❌)
+> What do I do today :
+- Solved the problem of Lecture 136 Day 18 Final Project part 1 by extracting RGB colors from Hirst Painting Dots.jpg to a list (colorgram package)
+- I half-understand a bit, maybe because I got sick again (Common Cold) and feel dizzy.
+- HAPPY CODING!!
