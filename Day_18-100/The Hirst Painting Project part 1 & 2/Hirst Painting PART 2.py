@@ -18,5 +18,20 @@ t = turtle.Turtle()
 screen = turtle.Screen()
 screen.setup(width=1920, height=1080, startx=0, starty=0)
 t.speed("fastest")
+t.hideturtle()
+t.teleport(-200, -200)
+ten_rows = 0
+one_hundred_dots = 0
+while True:
+    t.dot(20, random.choice(actual_colors))
+    t.penup()
+    t.forward(50)
+    one_hundred_dots += 1
+    ten_rows += 1
+    if ten_rows == 10:
+        ten_rows = 0
+        t.teleport(-200, t.ycor() + 50)
+    if one_hundred_dots == 100:
+        break
 
 turtle.mainloop()
