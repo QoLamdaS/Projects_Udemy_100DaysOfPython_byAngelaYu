@@ -530,3 +530,11 @@ Day 94/100 : 7 January 2026, Wednesday (≈45 mins ; <1 hour❌)
 - Happy Learning!
 - HAPPY CODING!!
 
+Day 95/100 : 8 January 2026, Thursday (≈30 mins ; <1 hour❌)
+> What do I do today :
+- Just starting out Day 19 of the course.
+- Learned Lecture 140 about Python Higher Order Functions & Event Listeners (theory).
+- Still creating the Make an Etch-A-Sketch App program (40% done) in Lecture 141 for applying Python Higher Order Functions & Event Listeners from the previous lecture.
+- I'm 'busy' with my upcoming homework.
+- Happy Learning!
+- HAPPY CODING!!
