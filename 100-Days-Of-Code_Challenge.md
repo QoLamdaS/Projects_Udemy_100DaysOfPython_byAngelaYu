@@ -546,3 +546,10 @@ Day 96/100 : 9 January 2026, Friday (≈20 mins ; <1 hour❌)
 - Right now, I feel extremely sleepy and unfocused during programming after getting insufficient sleep the night before (less than 6 hours of sleep today). Sleeping 8 hours is crucial, guys =)
 - Happy Learning!
 - HAPPY CODING!!
+
+Day 97/100 : 10 January 2026, Saturday (≈60 mins ; >1 hour✅)
+> What do I do today :
+- Learned about coordinates (x, y) in Day 19 through Python Turtle.
+- Completed Day 19 Final Project, creating "Turtle Racing Game Random" by my own solution.
+- Just starting out, Day 20 of the course, creating The Snake Game Project.
+- HAPPY CODING!!!
