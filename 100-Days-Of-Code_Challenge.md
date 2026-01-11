@@ -553,3 +553,12 @@ Day 97/100 : 10 January 2026, Saturday (≈60 mins ; >1 hour✅)
 - Completed Day 19 Final Project, creating "Turtle Racing Game Random" by my own solution.
 - Just starting out, Day 20 of the course, creating The Snake Game Project.
 - HAPPY CODING!!!
+
+Day 98/100 : 11 January 2026, Sunday (≈60 mins ; >1 hour✅)
+> What do I do today :
+- Solved Lecture 147 Day 20 Challenge by my own creating a starting snake body for The Snake Game Project day 1 in Day 20 of the course.
+- Solving the problem of animating the snake body move forward, along with Dr Yu explaining in Lecture 148. Honestly, I half-understand a little bit about the implementation so far. (challenging concept, I think)
+- Just starting out Lecture 149, Day 20.
+- I feel lazy for programming today hehehehe =)
+- HAPPY LEARNING!!
+- HAPPY CODING!!!
