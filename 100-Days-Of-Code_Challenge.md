@@ -562,3 +562,11 @@ Day 98/100 : 11 January 2026, Sunday (≈60 mins ; >1 hour✅)
 - I feel lazy for programming today hehehehe =)
 - HAPPY LEARNING!!
 - HAPPY CODING!!!
+
+Day 99/100 : 12 January 2026, Monday (≈15 mins ; <1 hour❌)
+> What do I do today :
+- Trying to solve Lecture 149 Day 20 challenge, creating a separate SnakeBody class. I can't solve this challenge yet. I have no idea.
+- I can't program a bit longer due to being pressed for time with school, especially during weekdays, Monday or Tuesday particularly.
+- I feel sleepy right now.
+- HAPPY LEARNING!!
+- HAPPY CODING!!!
