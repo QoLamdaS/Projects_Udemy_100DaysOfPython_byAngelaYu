@@ -1,3 +1,5 @@
+from turtle import Turtle
+
 class SnakeBody:
     #! ERROR ERROR ERROR ERROR
     def __init__(self, all_blocks, screen):
