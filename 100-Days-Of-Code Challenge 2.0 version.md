@@ -22,3 +22,12 @@ Day 1/100 : 15 January 2026, Thursday (≈30 mins ; <1 hour❌)
 - I feel so sleepy and tired right now due to my busy schedule of school and homework today. Sleeping 8 hours is crucial, guys.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 2/100 : 16 January 2026, Friday (≈30 mins ; <1 hour❌)
+> What do I do today :
+- Solved Lecture 150 Day 20 Challenge by myself fairly easily, creating snake body control WASD inside the SnakeBody class. I understand & applied the OOP concept.
+- Finally completed Day 20 of the course Udemy, creating half of The Snake Game Project (day 1).
+- Just starting out Day 21 of the course. Learned about OOP inheritance (watching Lecture 153).
+- Today I am having a family gathering (quality time). =)
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
