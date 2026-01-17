@@ -30,7 +30,7 @@ while game_is_on:
         score.increase_score()
     if snake.segments[0].xcor() > 285 or snake.segments[0].xcor() < -285 or snake.segments[0].ycor() > 285 or snake.segments[0].ycor() < -285:
         game_is_on = False
-        
+    
 
 score.game_over()
 
