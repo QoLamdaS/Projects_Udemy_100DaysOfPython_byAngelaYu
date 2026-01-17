@@ -12,6 +12,7 @@ class FoodSnake(Turtle):
         self.refresh()
 
     def refresh(self):
+        '''Spawns the food at a new random location within the game boundaries.'''
         random_x = random.randint(-280, 280)
         random_y = random.randint(-280, 280)
         self.goto(random_x, random_y)

@@ -31,18 +31,15 @@ while game_is_on:
         snake.extend()
         score.increase_score()
 
-    if snake.segments[0].xcor() > 285 or snake.segments[0].xcor() < -285 or snake.segments[0].ycor() > 285 or snake.segments[0].ycor() < -285:
+    if snake.segments[0].xcor() > 290 or snake.segments[0].xcor() < -290 or snake.segments[0].ycor() > 290 or snake.segments[0].ycor() < -290:
         #* Detect collision with wall; a.k.a detect Snake hitting the maximum wall from player view
         game_is_on = False
 
-    for segment in snake.segments:
-        #* Detect collision with tail; a.k.a detect Snake hitting its own body
-        if segment == snake.segments[0]: #! The very first segment is the Snake's head. So this condition is to skip the head.
-            continue
-        elif snake.segments[0].distance(segment) < 10:
+    for segment in snake.segments[1:]: #! The very first segment is the Snake's head, so starting from the second segment is the best idea to skip the Snake's head.
+        #* Detect collision with itself; a.k.a detect Snake hitting its own body
+        if snake.segments[0].distance(segment) < 10:
             game_is_on = False
 
 score.game_over()
-
 screen.mainloop()
 
