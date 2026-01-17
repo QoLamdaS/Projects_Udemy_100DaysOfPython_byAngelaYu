@@ -3,6 +3,7 @@ import random
 
 class FoodSnake(Turtle):
     def __init__(self):
+        '''Initializes a food object born from the Turtle class and sets its attributes and methods.'''
         super().__init__()
         self.shape("circle")
         self.color("green1")

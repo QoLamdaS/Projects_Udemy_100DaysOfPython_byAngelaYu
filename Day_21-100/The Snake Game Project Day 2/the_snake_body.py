@@ -4,6 +4,7 @@ move_distance = 20
 
 class SnakeBody:
     def __init__(self):
+        '''Initializes the snake body object born and sets its attribute and method.'''
         self.segments = []
         self.create_snake()
 
