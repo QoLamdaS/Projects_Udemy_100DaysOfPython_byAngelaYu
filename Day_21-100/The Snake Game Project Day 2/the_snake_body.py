@@ -8,12 +8,21 @@ class SnakeBody:
         self.create_snake()
 
     def create_snake(self):
+        ''''Create the initial/default snake body with three segments right after the game starts.'''
         for position in starting_positions:
-            new_segment = Turtle("square")
-            new_segment.color("white")
-            new_segment.penup()
-            new_segment.goto(position)
-            self.segments.append(new_segment)
+            self.add_segment(position) 
+
+    def add_segment(self, position):
+        '''Add a new segment to the snake at the given position.'''
+        new_segment = Turtle("square")
+        new_segment.color("white")
+        new_segment.penup()
+        new_segment.goto(position)
+        self.segments.append(new_segment)
+
+    def extend(self):
+        '''Add a new segment to the snake at the position of the last segment.'''
+        self.add_segment(self.segments[-1].position()) #! .position() method; returns its current (x, y) coordinates of the last segment (the tail).
 
     def move(self):
         for seg_num in range(len(self.segments) - 1, 0, -1):
