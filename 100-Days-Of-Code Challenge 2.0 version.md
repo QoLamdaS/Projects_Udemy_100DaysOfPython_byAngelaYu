@@ -31,3 +31,16 @@ Day 2/100 : 16 January 2026, Friday (≈30 mins ; <1 hour❌)
 - Today I am having a family gathering (quality time). =)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 3/100 : 17 January 2026, Saturday (≈140 mins ; >1 hour✅)
+> What do I do today :
+- Applied inheritance OOP theory to complete The Snake Game Project, day 2 inside Day 21 of the course.
+- Finally finished Day 21 of the course by creating The Snake Game using Turtle and OOP. It is a really challenging project I have tackled so far.
+- I have written all crucial comments for each "important" component inside The Snake Game Project day 2 to improve maintainability, reliability, and make it more readable, at least for my future self hehehehe. =)
+- Finally, I truly understand OOP concepts and how to apply them in Python. It is a really challenging intermediate concept for me so far.
+- I am trying to make a habit of writing several comments for each crucial component, especially for complex projects in the future. More frequently using OOP Python.
+- Stay consistent with at least a single session of 25/5 Pomodoro for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+
+
