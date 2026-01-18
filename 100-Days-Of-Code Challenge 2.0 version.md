@@ -43,4 +43,16 @@ Day 3/100 : 17 January 2026, Saturday (≈140 mins ; >1 hour✅)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
 
+Day 4/100 : 18 January 2026, Sunday (≈90 mins ; >1 hour✅)
+> What do I do today :
+- Start to work on creating The Pong Arcade Game Project (1,8 solved by myself over the 9 pieces of the problems in Lecture 160 Day 22 to complete Day 22 project)
+- I am challenging myself in Lecture 160 Day 22 to create The Pong Arcade Game Project from almost scratch by myself without watching/peeking Dr. Angela Yu's codings/solutions.
+- Wish me luck guys, to tackle this challenge by myself! =)
+- Solved the first piece of the 9 main problems, creating the default fullscreen black.
+- Almost solved the second piece, creating user_left and user_right paddles as default objects born, and user controls (up & down), and then having several tests. However, CRUCIAL BUG: Cannot holding keypresses for left & right paddles simultaneously. I have no idea how to fix that bug hehehe =)
+- Honestly, it is one of the most challenging & demanding projects that I have ever worked on so far. Also, it requires extensive OOP concepts to apply for efficiency and maintainability.
+- I procrastinated a bit doing programming, which is a very common human experience hehehehe =)
+- STAY CONSISTENT at least for a single session of 25/5 Pomodoro for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
 
