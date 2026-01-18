@@ -5,3 +5,8 @@ from turtle import Screen
 #* Wish me luck to tackle this challenge by myself!
 
 screen = Screen()
+screen.setup(width=1.0, height=1.0) 
+screen.bgcolor("black")
+screen.title("The Pong Arcade Game by me!!!")
+
+screen.mainloop()
