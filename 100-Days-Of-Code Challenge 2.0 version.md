@@ -56,3 +56,9 @@ Day 4/100 : 18 January 2026, Sunday (≈90 mins ; >1 hour✅)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
 
+Day 5/100 : 19 January 2026, Monday (≈10 mins ; <1 hour❌)
+> What do I do today :
+- I reviewed some OOP concepts. I'm really very busy (REAL) doing my urgent & "important??" school group project straight right after school until midnight right now.
+- I feel very exhausted and sleepy now.
+- Please "returning/back to minimum duration" tomorrow to STAY CONSISTENT at least for a single session of 25/5 Pomodoro for me.
+- HAPPY LEARNING!
