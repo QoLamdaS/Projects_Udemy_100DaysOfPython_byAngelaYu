@@ -62,3 +62,13 @@ Day 5/100 : 19 January 2026, Monday (≈10 mins ; <1 hour❌)
 - I feel very exhausted and sleepy now.
 - Please "returning/back to minimum duration" tomorrow to STAY CONSISTENT at least for a single session of 25/5 Pomodoro for me.
 - HAPPY LEARNING!
+
+Day 6/100 : 20 January 2026, Tuesday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- I am still trying to solve cannot being able to hold keypresses for left and right paddles simultaneously for Day 22 Project (In-Challenge without watching Dr. Angela's guides), "The Pong Arcade Game Project".
+- Right now, I feel so exhausted and sleepy due to insufficient sleep.
+- I am programming a bit ineffectively/inefficiently due to insufficient sleep and am so exhausted.
+- Stay Consistent at least for a single session of 25/5 Pomodoro for me.
+- Happy Coding!
+- HAPPY LEARNING!
+
