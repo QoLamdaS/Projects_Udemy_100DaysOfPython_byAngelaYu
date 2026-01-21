@@ -72,3 +72,11 @@ Day 6/100 : 20 January 2026, Tuesday (≈25 mins ; <1 hour❌)
 - Happy Coding!
 - HAPPY LEARNING!
 
+Day 7/100 : 21 January 2026, Wednesday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Today I'm really so busy (REAL) finishing my school group project ["Important maybe and urgent"]
+- Still trying to solve, cannot holding keypresses for left and right paddles simultaneously for Day 22 Project (In-Challenge without watching Dr. Angela's guides) "The Pong Arcade Game Project". I have no idea.
+- Come back tomorrow (hopefully) to Stay Consistent at least for a single session of 25/5 Pomodoro for me.
+- Happy Coding!
+- HAPPY LEARNING!
+
