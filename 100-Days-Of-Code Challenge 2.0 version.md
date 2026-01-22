@@ -80,3 +80,12 @@ Day 7/100 : 21 January 2026, Wednesday (≈5 mins ; <1 hour❌)
 - Happy Coding!
 - HAPPY LEARNING!
 
+Day 8/100 : 22 January 2026, Wednesday (≈35 mins ; <1 hour❌)
+> What do I do today :
+- Today I'm busy studying for my school exams tomorrow.
+- I solved "cannot holding keypresses for left and right paddles simultaneously" for Day 22 Project (still In-Challenge without watching Dr. Angela's guides so far) by deleting the problem/bug. I "give up" for 'over-engineering'. It's so time-consuming and has no significant development for "The Pong Arcade Game Project" so far. =)
+- I feel so tired and sleepy. I have no idea.
+- Stay Consistent at least for a single session of 25/5 Pomodoro for me.
+- Happy Coding!
+- HAPPY LEARNING!
+
