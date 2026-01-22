@@ -12,10 +12,10 @@ screen.title("The Pong Arcade Game by me!!!")
 
 screen.listen()
 user1 = LeftPaddle()
-screen.onkeypress(user1.left_up, "w")
-screen.onkeypress(user1.left_down, "s")
-user2 = RightPaddle() #! CRUCIAL BUG: Cannot holding keypresses for left & right paddles simultaneously.
-screen.onkeypress(user2.right_up, "o")
-screen.onkeypress(user2.right_down, "l")
+screen.onkey(user1.left_up, "w")
+screen.onkey(user1.left_down, "s")
+user2 = RightPaddle()
+screen.onkey(user2.right_up, "o")
+screen.onkey(user2.right_down, "l")
 
 screen.mainloop()
