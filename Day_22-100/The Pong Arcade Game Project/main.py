@@ -10,6 +10,7 @@ screen = Screen()
 screen.setup(width=1.0, height=1.0) 
 screen.bgcolor("black")
 screen.title("The Pong Arcade Game by me!!!")
+screen.tracer(0)
 
 screen.listen()
 user1 = LeftPaddle()
@@ -18,5 +19,9 @@ screen.onkey(user1.left_down, "s")
 user2 = RightPaddle()
 screen.onkey(user2.right_up, "o")
 screen.onkey(user2.right_down, "l")
+
+game_on = True
+while game_on:
+    screen.update()
 
 screen.mainloop()
