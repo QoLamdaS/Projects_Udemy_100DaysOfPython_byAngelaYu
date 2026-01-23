@@ -1,9 +1,10 @@
 from turtle import Screen
 from users_paddle import LeftPaddle, RightPaddle
 
-#! I finally taking the challenge in Lecture 160 Day 22
-#! which is creating The Pong Arcade Game Project from scratch by myself without watching/peeking Dr. Angela Yu's coding/solutions.
-#* Wish me luck to tackle this challenge by myself!
+#! UPDATE: I "give up" taking the challenge "The Pong Arcade Game Project" without watching Dr. Angela's codings/solutions.
+#* It is time-consuming (multiple days to complete) and I have other priorities to focus on such as school assignments and upcoming exams.
+#* However at least I have tried to create a novel project on my own. So it is not a total loss I think.
+#* I finally decided to follow Dr. Angela's recommendation to watch her codings (Lecture 160 Day 22)
 
 screen = Screen()
 screen.setup(width=1.0, height=1.0) 
