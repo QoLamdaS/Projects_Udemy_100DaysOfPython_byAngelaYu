@@ -89,3 +89,14 @@ Day 8/100 : 22 January 2026, Wednesday (≈35 mins ; <1 hour❌)
 - Happy Coding!
 - HAPPY LEARNING!
 
+Day 9/100 : 23 January 2026, Friday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Today I'm swamped/busy studying for my upcoming exam period and doing homework.
+- Also, I don't know why I feel so lazy and unmotivated to code. Maybe because I'm exhausted or just unlucky =)
+- I finally decided to follow Dr. Angela's recommendation to watch her codings (Lecture 160 Day 22). I "give up" taking the challenge "The Pong Arcade Game Project" without watching Dr. Angela's codings/solutions.
+- My reasons: It is time-consuming (multiple days to complete), and I have other priorities to focus on, such as homework and the upcoming exam period.
+- I am trying to solve Lecture 164 Day 22 Challenge, creating the ball class for The Pong Arcade Game Project.
+- Stay Consistent at least for a single session of 25/5 Pomodoro for me.
+- HAPPY LEARNING!!!
+
+
