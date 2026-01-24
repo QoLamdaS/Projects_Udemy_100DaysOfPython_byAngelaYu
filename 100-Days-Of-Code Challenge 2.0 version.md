@@ -99,4 +99,13 @@ Day 9/100 : 23 January 2026, Friday (≈25 mins ; <1 hour❌)
 - Stay Consistent at least for a single session of 25/5 Pomodoro for me.
 - HAPPY LEARNING!!!
 
+Day 10/100 : 24 January 2026, Friday (≈15 mins ; <1 hour❌)
+> What do I do today :
+- Today I'm very busy completing my overwhelming homework.
+- Solved Lecture 164 Day 22 Challenge creating the ball class + make the ball spawn and move for The Pong Arcade Game Project.
+- Just starting out solving Lecture 165 Day 22 Challenge.
+- Hopefully comeback tomorrow to stay consistent at least for a single session of 25/5 Pomodoro for me.
+- HAPPY LEARNING!
+
+
 
