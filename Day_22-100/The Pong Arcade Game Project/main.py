@@ -1,5 +1,7 @@
 from turtle import Screen
 from users_paddle import LeftPaddle, RightPaddle
+from the_ball import Ball
+import time
 
 #! UPDATE: I "give up" taking the challenge "The Pong Arcade Game Project" without watching Dr. Angela's codings/solutions.
 #* It is time-consuming (multiple days to complete) and I have other priorities to focus on such as school assignments and upcoming exams.
@@ -19,9 +21,12 @@ screen.onkey(user1.left_down, "s")
 user2 = RightPaddle()
 screen.onkey(user2.right_up, "o")
 screen.onkey(user2.right_down, "l")
+ball = Ball()
 
 game_on = True
 while game_on:
+    time.sleep(0.01)
     screen.update()
+    ball.move()
 
 screen.mainloop()
