@@ -107,5 +107,11 @@ Day 10/100 : 24 January 2026, Friday (≈15 mins ; <1 hour❌)
 - Hopefully comeback tomorrow to stay consistent at least for a single session of 25/5 Pomodoro for me.
 - HAPPY LEARNING!
 
+Day 11/100 : 25 January 2026, Sunday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Almost solved Lecture 165 Day 22 adding ball bouncing logic after hitting the up & down wall. I don't know why the ball can't bounce even though the code is still same. I have no idea.
+- I'm still busy completing my homework and studying for my exams tomorrow. 
+- Still consistent programming for at least 25 minutes every day.
+- Happy Coding!
 
 
