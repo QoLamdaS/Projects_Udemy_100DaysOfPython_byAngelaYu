@@ -12,11 +12,11 @@ class LeftPaddle(Turtle):
         self.shapesize(stretch_wid=5, stretch_len=1)
     
     def left_up(self):
-        new_y = self.ycor() + 35
+        new_y = self.ycor() + 20
         self.goto(self.xcor(), new_y)
     
     def left_down(self):
-        new_y = self.ycor() - 35
+        new_y = self.ycor() - 20
         self.goto(self.xcor(), new_y)
 
 class RightPaddle(Turtle):

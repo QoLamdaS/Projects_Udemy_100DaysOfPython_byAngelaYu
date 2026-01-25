@@ -9,7 +9,7 @@ import time
 #* I finally decided to follow Dr. Angela's recommendation to watch her codings (Lecture 160 Day 22)
 
 screen = Screen()
-screen.setup(width=1.0, height=1.0) 
+screen.setup(width=800, height=600) 
 screen.bgcolor("black")
 screen.title("The Pong Arcade Game by me!!!")
 screen.tracer(0)
@@ -25,7 +25,7 @@ ball = Ball()
 
 game_on = True
 while game_on:
-    time.sleep(0.01)
+    time.sleep(0.1)
     screen.update()
     ball.move()
 
