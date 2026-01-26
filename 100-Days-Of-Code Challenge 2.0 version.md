@@ -114,4 +114,13 @@ Day 11/100 : 25 January 2026, Sunday (≈25 mins ; <1 hour❌)
 - Still consistent programming for at least 25 minutes every day.
 - Happy Coding!
 
+Day 12/100 : 26 January 2026, Monday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Solved Lecture 165 Day 22, adding ball bouncing logic after hitting the up & down wall.
+- Solved Lecture 166 Day 22, adding detection of collisions with user paddles.
+- I don't know why I feel lazy about programming today. Maybe because I'm busy and tired studying for my exams tomorrow.
+- Stay consistent with programming for at least 25 minutes every day.
+- Happy Learning!
+
+
 
