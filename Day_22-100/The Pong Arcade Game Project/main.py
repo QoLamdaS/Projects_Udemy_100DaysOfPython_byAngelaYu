@@ -30,6 +30,6 @@ while game_on:
     ball.move()
     if ball.ycor() > 280 or ball.ycor() < -280:
         #* Detect collision with up & down wall; and then bounce the ball (reverse its y direction).
-        ball.bounce()
+        ball.bounce_y()
 
 screen.mainloop()
