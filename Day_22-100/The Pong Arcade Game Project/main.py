@@ -31,5 +31,7 @@ while game_on:
     if ball.ycor() > 280 or ball.ycor() < -280:
         #* Detect collision with up & down wall; and then bounce the ball (reverse its y direction).
         ball.bounce_y()
+    if ball.distance(user2) < 50 and ball.xcor() > 320 or ball.distance(user1) < 50 and ball.xcor() < -320:
+        ball.bounce_x()
 
 screen.mainloop()
