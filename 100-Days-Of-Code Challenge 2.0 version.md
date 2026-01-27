@@ -122,5 +122,11 @@ Day 12/100 : 26 January 2026, Monday (≈25 mins ; <1 hour❌)
 - Stay consistent with programming for at least 25 minutes every day.
 - Happy Learning!
 
+Day 13/100 : 27 January 2026, Tuesday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Solved Lecture 167 Day 22 Challenge by myself, adding to detect the ball goes out of range x_coordinates correctly. Weirdly, my ball "froze" in Python Turtle Terminal even though my code is clearly correct. I think it is IDE/laptop bugs??
+- I feel tired of programming and a bit unmotivated. I don't know why.
+- Stay consistent with programming for at least 25 minutes every day.
+- Happy Learning!
 
 
