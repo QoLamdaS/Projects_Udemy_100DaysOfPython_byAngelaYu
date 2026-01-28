@@ -34,14 +34,14 @@ while game_on:
     if ball.distance(user2) < 50 and ball.xcor() > 320 or ball.distance(user1) < 50 and ball.xcor() < -320:
         ball.bounce_x()
     
-    if ball.xcor() > 380 or ball.xcor() < -380: #? Strangely for my laptop, the ball moving correctly
-        ball.reset_position()
+    # if ball.xcor() > 380 or ball.xcor() < -380: #? Strangely for my laptop, the ball moving correctly
+    #     ball.reset_position()
     
-    # if ball.xcor() > -380:
-    #     #* Detect when Left paddle misses the ball.
-    #     ball.reset_position()
-    # if ball.xcor() < 380:
-    #     #* Detect when Right paddle misses the ball.
-    #     ball.reset_position()
+    if ball.xcor() > -380:
+        #* Detect when Left paddle misses the ball.
+        ball.reset_position()
+    if ball.xcor() < 380:
+        #* Detect when Right paddle misses the ball.
+        ball.reset_position()
 
 screen.mainloop()
