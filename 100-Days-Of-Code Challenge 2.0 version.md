@@ -129,4 +129,11 @@ Day 13/100 : 27 January 2026, Tuesday (≈25 mins ; <1 hour❌)
 - Stay consistent with programming for at least 25 minutes every day.
 - Happy Learning!
 
+Day 14/100 : 28 January 2026, Wednesday (≈10 mins ; <1 hour❌)
+> What do I do today :
+- Trying to solve Lecture 168 Day 22 challenge creating Scoreboard logic for The Pong Arcade Game project using Python Turtle.
+- I'm so exhausted (REAL) and really can't focus due to having intense workout today. 
+- Tomorrow hopefully comeback to consistent programming for at least 25 minutes every day.
+- Happy Learning!
+
 
