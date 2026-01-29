@@ -1,6 +1,7 @@
 from turtle import Screen
 from users_paddle import LeftPaddle, RightPaddle
 from the_ball import Ball
+from a_scoreboard import ScoreBoard
 import time
 
 #! UPDATE: I "give up" taking the challenge "The Pong Arcade Game Project" without watching Dr. Angela's codings/solutions.
@@ -22,10 +23,11 @@ user2 = RightPaddle()
 screen.onkey(user2.right_up, "o")
 screen.onkey(user2.right_down, "l")
 ball = Ball()
+score = ScoreBoard()
 
 game_on = True
 while game_on:
-    time.sleep(0.1)
+    time.sleep(ball.move_speed)
     screen.update()
     ball.move()
     if ball.ycor() > 280 or ball.ycor() < -280:
@@ -40,8 +42,10 @@ while game_on:
     if ball.xcor() > -380:
         #* Detect when Left paddle misses the ball.
         ball.reset_position()
+        score.l_point()
     if ball.xcor() < 380:
         #* Detect when Right paddle misses the ball.
         ball.reset_position()
+        score.r_point()
 
 screen.mainloop()
