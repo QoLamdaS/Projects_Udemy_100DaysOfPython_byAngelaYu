@@ -1,4 +1,4 @@
-FONT = ("Courier", 24, "normal")
+font = ("Courier", 24, "normal")
 
 
 class Scoreboard:
