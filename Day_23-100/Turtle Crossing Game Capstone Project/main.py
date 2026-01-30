@@ -11,10 +11,14 @@ screen.tracer(0)
 screen.listen()
 user_turtle = Player()
 screen.onkey(user_turtle.move_y, "w")
+cars = CarManager()
 
 game_is_on = True
 while game_is_on:
     time.sleep(0.1)
     screen.update()
+    cars.create_car()
+    cars.move_cars()
+    
 
 screen.mainloop()
