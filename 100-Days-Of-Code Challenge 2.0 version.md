@@ -145,3 +145,12 @@ Day 15/100 : 29 January 2026, Thursday (≈60 mins ; >1 hour✅)
 - Happy Learning!
 - HAPPY CODING!
 
+Day 16/100 : 30 January 2026, Friday (≈95 mins ; >1 hour✅)
+> What do I do today :
+- Finally completed Day 23 "Turtle Crossing Game Capstone Project" building by myself without watching Dr. Yu's solutions/codings. It is challenging for me.
+- I have commented on several crucial components for better readability and maintainability in "Turtle Crossing Game Capstone Project".
+- Just starting Day 24 of the course about managing files, directories, and paths.
+- Added high score logic (keeping the highest score if the player's current score is lower than the highest score) for The Snake Game and a replayability feature in Lecture 182 Day 24.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- Happy Learning!
+- HAPPY CODING!!!
