@@ -13,12 +13,17 @@ user_turtle = Player()
 screen.onkey(user_turtle.move_y, "w")
 cars = CarManager()
 
-game_is_on = True
-while game_is_on:
+game_on = True
+while game_on:
     time.sleep(0.1)
     screen.update()
     cars.create_car()
     cars.move_cars()
-    
+    for car in cars.all_cars:
+        if car.distance(user_turtle) < 20:
+            game_on = False
+        
+
+print("\nGAME OVER!!!!\n")
 
 screen.mainloop()

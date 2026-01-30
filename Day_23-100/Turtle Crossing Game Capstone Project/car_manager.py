@@ -13,8 +13,8 @@ class CarManager(Turtle):
         self.car_speed = starting_move_distance
 
     def create_car(self):
-        random_chance = random.randint(1, 5)
-        if random_chance == 4:
+        random_chance = random.randint(0, 5)
+        if random_chance == 4: 
             new_car = Turtle("square")
             new_car.shapesize(stretch_wid=1, stretch_len=2)
             new_car.penup()
