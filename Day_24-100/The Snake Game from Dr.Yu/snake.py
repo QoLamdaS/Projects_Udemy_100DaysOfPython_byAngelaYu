@@ -53,7 +53,7 @@ class Snake:
 
     def reset_snakes(self):
         for seg in self.segments:
-            seg.goto(9999, 9999)
-        self.segments.clear()
+            seg.goto(9999, 9999) #* To teleport previous "dead" snake segments out of the screen
+        self.segments.clear() #* Clear the segments list
         self.create_snake()
         self.head = self.segments[0]
