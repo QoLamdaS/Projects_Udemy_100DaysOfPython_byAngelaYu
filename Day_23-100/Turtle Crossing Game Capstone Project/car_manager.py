@@ -5,7 +5,6 @@ colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 starting_move_distance = 5
 move_increment = 10
 
-
 class CarManager(Turtle):
     def __init__(self):
         super().__init__()

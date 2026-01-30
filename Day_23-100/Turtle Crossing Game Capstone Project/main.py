@@ -22,7 +22,9 @@ while game_on:
     for car in cars.all_cars:
         if car.distance(user_turtle) < 20:
             game_on = False
-        
+    if user_turtle.ycor() > 280:
+        user_turtle.reset_position()
+        cars.increase_speed()
 
 print("\nGAME OVER!!!!\n")
 

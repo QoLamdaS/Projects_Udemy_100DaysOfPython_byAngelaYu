@@ -2,8 +2,6 @@ from turtle import Turtle
 
 starting_position = (0, -280)
 move_distance = 10
-finish_line_y = 280
-
 
 class Player(Turtle):
     def __init__(self):
@@ -13,7 +11,10 @@ class Player(Turtle):
         self.goto(starting_position)
         self.setheading(90)
         self.shape("turtle")
-    
+
     def move_y(self):
         move = self.ycor() + move_distance
         self.goto(self.xcor(), move)
+
+    def reset_position(self):
+        self.goto(starting_position)
