@@ -20,11 +20,11 @@ while game_on:
     screen.update()
     cars.create_car()
     cars.move_cars()
-    for car in cars.all_cars:
+    for car in cars.all_cars: #* Checks for collision between each car in all_cars list and the user_turtle current position
         if car.distance(user_turtle) < 20:
             level.game_over()
             game_on = False
-    if user_turtle.ycor() > 280:
+    if user_turtle.ycor() > 280: #* Checks if the user_turtle has reached the top of the screen and increases the level + cars' speed
         user_turtle.reset_position()
         level.increase_level()
         cars.increase_speed()
