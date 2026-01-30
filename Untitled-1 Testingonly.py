@@ -1,3 +1,3 @@
 
-print("Ich liebe die Pizza")
-print("testing")
+print("\nIch liebe die Pizza\n")
+print("\ntesting\n")
