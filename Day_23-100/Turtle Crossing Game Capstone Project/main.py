@@ -10,8 +10,9 @@ screen.tracer(0)
 
 screen.listen()
 user_turtle = Player()
-screen.onkey(user_turtle.move_y, "w")
+screen.onkeypress(user_turtle.move_y, "w")
 cars = CarManager()
+level = Scoreboard()
 
 game_on = True
 while game_on:
@@ -21,11 +22,11 @@ while game_on:
     cars.move_cars()
     for car in cars.all_cars:
         if car.distance(user_turtle) < 20:
+            level.game_over()
             game_on = False
     if user_turtle.ycor() > 280:
         user_turtle.reset_position()
+        level.increase_level()
         cars.increase_speed()
-
-print("\nGAME OVER!!!!\n")
 
 screen.mainloop()

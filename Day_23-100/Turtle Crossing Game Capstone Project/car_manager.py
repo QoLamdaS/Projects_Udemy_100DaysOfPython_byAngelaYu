@@ -8,6 +8,7 @@ move_increment = 10
 class CarManager(Turtle):
     def __init__(self):
         super().__init__()
+        self.hideturtle()
         self.all_cars = []
         self.car_speed = starting_move_distance
 
