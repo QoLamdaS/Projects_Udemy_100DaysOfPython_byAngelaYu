@@ -154,3 +154,15 @@ Day 16/100 : 30 January 2026, Friday (≈95 mins ; >1 hour✅)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - Happy Learning!
 - HAPPY CODING!!!
+
+Day 17/100 : 31 January 2026, Saturday (≈80 mins ; >1 hour✅)
+> What do I do today :
+- Learned about [Open, Read, and Write to Files using the "with" Keyword] in Lecture 183 Day 24
+- Solved Lecture 184 Day 24 challenge, saving the highest score to a .txt file, logic for The Snake Game.
+- Finally I solved the unexpected error { FileNotFoundError: [Errno 2] No such file or directory: 'THE_FILE_NAME' } in Lecture 184 Day 24 Challenge, even though the code is clearly the same as Dr. Angela's though solution. I solved through using the absolute path of a .txt file and also use DOUBLE BACKSLASHES instead of single backlslash for copy-paste the absolute path of a .txt file to avoid Windows 11 VScode's terminal that error. It is really unexpected and a tough problem for me so far fixing it honestly =)
+- Learned about the absolute path of a file and relative path of a file, as well as the differences in Lecture 185 Day 24.
+- Finished the quiz about "File Paths" in Day 24 of the course.
+- Just starting to work Day 24 Final Project "Mail Merge" in Lecture 186 Day 24.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!
