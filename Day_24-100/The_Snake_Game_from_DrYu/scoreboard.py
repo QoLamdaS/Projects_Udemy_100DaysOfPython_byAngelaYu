@@ -8,7 +8,7 @@ class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
-        with open("D:\downloadrandom\Projects_Udemy_100DaysOfPython_byAngelaYu\Day_24-100\The_Snake_Game_from_DrYu\the_data.txt", mode="r+") as data_score:
+        with open("D:\\downloadrandom\\Projects_Udemy_100DaysOfPython_byAngelaYu\\Day_24-100\\The_Snake_Game_from_DrYu\\the_data.txt", mode="r") as data_score:
             self.high_score = int(data_score.read())
         self.color("white")
         self.penup()
@@ -23,7 +23,7 @@ class Scoreboard(Turtle):
     def reset_scores(self):
         if self.score > self.high_score: #* Check if current score is greater than the high score
             self.high_score = self.score
-            with open("the_data.txt", mode="w") as data_score:
+            with open("D:\\downloadrandom\\Projects_Udemy_100DaysOfPython_byAngelaYu\\Day_24-100\\The_Snake_Game_from_DrYu\\the_data.txt", mode="w") as data_score:
                 data_score.write(f"{self.high_score}")
         self.score = 0
         self.update_scoreboard()
