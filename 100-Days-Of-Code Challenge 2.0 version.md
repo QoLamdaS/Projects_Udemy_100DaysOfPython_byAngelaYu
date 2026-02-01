@@ -166,3 +166,12 @@ Day 17/100 : 31 January 2026, Saturday (≈80 mins ; >1 hour✅)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!
+
+Day 18/100 : 1 February 2026, Sunday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Starting to work on Day 24 Final Project "Mail Merge" in Lecture 186 Day 24 (5% completed). I really have no idea how to build it =)
+- Reading the usage and differences about "Python File readlines() method, Python String replace() method, and Python strip() method" for building Mail Merge Project. I have no idea =)
+- I must study for my exams tomorrow. I feel so lazy :)
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!
