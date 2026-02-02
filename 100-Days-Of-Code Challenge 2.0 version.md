@@ -175,3 +175,12 @@ Day 18/100 : 1 February 2026, Sunday (≈25 mins ; <1 hour❌)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!
+
+Day 19/100 : 2 February 2026, Monday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Only reading about "Python File readlines() method, Python String replace() method, and Python strip() method" for building Mail Merge Project.
+- I'm so busy (REAL) today. Feel so exhausted.
+- I must study for my tough exams tomorrow.
+- Comeback to stay consistent with programming every day for at least 25 minutes for me. Don't miss twice consecutively. =)
+- HAPPY CODING!!!
+- HAPPY LEARNING!
