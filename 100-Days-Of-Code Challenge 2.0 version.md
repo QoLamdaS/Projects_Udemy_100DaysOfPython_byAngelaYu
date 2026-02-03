@@ -184,3 +184,12 @@ Day 19/100 : 2 February 2026, Monday (≈5 mins ; <1 hour❌)
 - Comeback to stay consistent with programming every day for at least 25 minutes for me. Don't miss twice consecutively. =)
 - HAPPY CODING!!!
 - HAPPY LEARNING!
+
+Day 20/100 : 3 February 2026, Tuesday (≈35 mins ; <1 hour❌)
+> What do I do today :
+- Finally completed "Mail Merge Project" Day 24 of the course. Honestly I have no idea what I'm writing lol =)
+- I don't know why, my PC must use double backslashes instead of a single backslash for copy-paste file relative paths on my VScode Windows. I have no idea.
+- I must study for my exams tomorrow :>
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!
