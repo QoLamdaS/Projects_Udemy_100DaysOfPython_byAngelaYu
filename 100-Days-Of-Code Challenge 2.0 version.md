@@ -201,3 +201,11 @@ Day 21/100 : 4 February 2026, Wednesday (≈5 mins ; <1 hour❌)
 - Comeback tomorrow to stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 22/100 : 5 February 2026, Thursday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Getting into the introduction of Python Pandas by solved two challenges with a CSV file by myself (relatively easy). In Lecture 190 Day 25 of the course.
+- I'm very busy again (REAL) studying for the chemistry exam tomorrow.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
