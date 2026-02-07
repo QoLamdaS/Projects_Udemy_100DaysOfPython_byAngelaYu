@@ -219,3 +219,13 @@ Day 23/100 : 6 February 2026, Friday (≈25 mins ; <1 hour❌)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 24/100 : 7 February 2026, Saturday (≈70 mins ; >1 hour✅)
+> What do I do today :
+- Finished all the challenges about Python Pandas (data_csv) in Lecture 191 Day 25 of the course by my own solution.
+- Solved Lecture 192 Day 25, creating csv file for squirrels New York Park (data analysis) using Python Pandas by myself again. Quite challenging for this challenge.
+- My Windows VScode is laggy today, I don't know why.
+- Today I must prepare for my upcoming physics exam and other exams.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
