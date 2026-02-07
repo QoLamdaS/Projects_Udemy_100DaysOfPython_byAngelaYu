@@ -11,5 +11,6 @@ data = pandas.read_csv("Day_25-100\\weather_data.csv")
 # print(data["temp"].max())
 print(data[data.temp == data.temp.max()])
 the_Monday = data[data.day == "Monday"]
-print(the_Monday.condition)
+print(the_Monday.temp * 9/5 + 32) #* Celsius to Fahrenheit conversion
+
 
