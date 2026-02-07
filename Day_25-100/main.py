@@ -13,4 +13,10 @@ print(data[data.temp == data.temp.max()])
 the_Monday = data[data.day == "Monday"]
 print(the_Monday.temp * 9/5 + 32) #* Celsius to Fahrenheit conversion
 
+data_dict = {
+    "students": ["Amy", "James", "Angela"],
+    "scores": [76, 56, 65]
+}
+data = pandas.DataFrame(data_dict)
+data.to_csv("the_new_data.csv")
 
