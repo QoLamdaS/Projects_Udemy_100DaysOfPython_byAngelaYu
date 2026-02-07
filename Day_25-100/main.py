@@ -5,4 +5,6 @@ data_dict = data.to_dict()
 print(data_dict)
 temp_list = data["temp"].to_list()
 print(temp_list)
-
+avg_temp = sum(temp_list) / len(temp_list)
+print(avg_temp)
+print(data["temp"].mean())
