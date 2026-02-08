@@ -18,5 +18,5 @@ data_dict = {
     "scores": [76, 56, 65]
 }
 data = pandas.DataFrame(data_dict)
-data.to_csv("the_new_data.csv")
+data.to_csv("Day_25-100\\new_data.csv")
 
