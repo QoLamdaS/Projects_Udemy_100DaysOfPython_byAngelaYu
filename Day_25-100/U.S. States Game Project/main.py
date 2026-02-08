@@ -13,12 +13,14 @@ data = pandas.read_csv("Day_25-100\\U.S. States Game Project\\50_states.csv")
 remaining_all_states = data.state.to_list()
 score = 0
 
-while score < 50:
+while score < 50: #* main game loop
     input_state = screen.textinput(title=f"{score}/{len(data.state)} U.S. States Correct", prompt="What is state's name?").title()
     if input_state in remaining_all_states:
         score += 1
-        remaining_all_states.remove(input_state)
-        t.goto(data.x[data.state == input_state].item(), data.y[data.state == input_state].item()) #* actually I don't know why using .item() is needed here lol 
+        remaining_all_states.remove(input_state) #* to keep track of which states are remaining
+        t.goto(data.x[data.state == input_state].item(), data.y[data.state == input_state].item()) #* actually I don't know why using .item() is needed here lol. But .item() is necessary to work 
         t.write(input_state)
-
-screen.mainloop()
+    if input_state == "Exit":
+        break
+missing_states_df = pandas.DataFrame(remaining_all_states)
+missing_states_df.to_csv("Day_25-100\\U.S. States Game Project\\US States to Learn.csv")
