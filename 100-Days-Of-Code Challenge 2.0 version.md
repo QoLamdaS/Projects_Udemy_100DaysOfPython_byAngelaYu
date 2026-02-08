@@ -229,3 +229,12 @@ Day 24/100 : 7 February 2026, Saturday (≈70 mins ; >1 hour✅)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 25/100 : 8 February 2026, Sunday (≈75 mins ; >1 hour✅)
+> What do I do today :
+- Finally completed building Day 25 Final Project "U.S. States Game Project" by my own using Python Pandas & Turtle. I'm becoming more skilled using Pandas =). Day 25 of the course finished. It's very challenging project so far.
+- I feel lazy to write this journal Lol =)
+- I must prepare for my upcoming physics exam today.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
