@@ -246,3 +246,10 @@ Day 26/100 : 9 February 2026, Monday (≈5 mins ; <1 hour❌)
 - Comeback to stay consistent tomorrow hopefully with programming every day for at least 25 minutes for me.
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 27/100 : 10 February 2026, Tuesday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Reading about Python Pandas (reviewed).
+- Right now I'm so busy (REAL) for studying tough physics exam. Just showing up for "programming" today.
+- Comeback to stay consistent hopefully with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!
