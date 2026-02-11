@@ -253,3 +253,11 @@ Day 27/100 : 10 February 2026, Tuesday (≈5 mins ; <1 hour❌)
 - Right now I'm so busy (REAL) for studying tough physics exam. Just showing up for "programming" today.
 - Comeback to stay consistent hopefully with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!
+
+Day 28/100 : 11 February 2026, Wednesday (≈10 mins ; <1 hour❌)
+> What do I do today :
+- Reviewed pseudocode and flowchart concept (the basics of Python programming).
+- Watched a bit in Lecture 197 Day 26 about List Comprehension. I understand a bit.
+- Just showing up for "programming" today. I'm still busy with other urgent priorities and also still studying for my physics exam tomorrow. So busy during weekdays generally.
+- Comeback to stay consistent tomorrow hopefully with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!
