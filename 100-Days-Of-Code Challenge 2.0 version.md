@@ -261,3 +261,10 @@ Day 28/100 : 11 February 2026, Wednesday (≈10 mins ; <1 hour❌)
 - Just showing up for "programming" today. I'm still busy with other urgent priorities and also still studying for my physics exam tomorrow. So busy during weekdays generally.
 - Comeback to stay consistent tomorrow hopefully with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!
+
+Day 29/100 : 12 February 2026, Thursday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Watched a bit in Lecture 197 Day 26 about List Comprehension again. 
+- Just showing up for "programming" today. I'm still busy and feel so exhausted right now. So busy during weekdays as usual.
+- Hopefully comeback to stay consistent tomorrow with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!
