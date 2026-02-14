@@ -275,3 +275,12 @@ Day 30/100 : 13 February 2026, Friday (≈10 mins ; <1 hour❌)
 - Just showing up for "programming" today for again. I'm feeling so lazy =) and so exhausted I don't know why, maybe this week is so stressful for me.
 - Hopefully returning to stay consistent tomorrow with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!
+
+Day 31/100 : 14 February 2026, Friday (≈65 mins ; >1 hour✅)
+> What do I do today :
+- Solved Coding Exercise 14, 15, 16 Day 26 of the course by myself. Quite challenging for me.
+- Just starting to learn applying Dictionary Comprehension.
+- Exploring/googling about CTF, Hack The Box, TryHackMe, DSA (Leetcode & HackerRank). Project-Based Learning is still "king" for me right now.
+- Stay consistent tomorrow with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
