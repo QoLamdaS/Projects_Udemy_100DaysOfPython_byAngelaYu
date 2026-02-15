@@ -276,11 +276,20 @@ Day 30/100 : 13 February 2026, Friday (≈10 mins ; <1 hour❌)
 - Hopefully returning to stay consistent tomorrow with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!
 
-Day 31/100 : 14 February 2026, Friday (≈65 mins ; >1 hour✅)
+Day 31/100 : 14 February 2026, Saturday (≈65 mins ; >1 hour✅)
 > What do I do today :
 - Solved Coding Exercise 14, 15, 16 Day 26 of the course by myself. Quite challenging for me.
 - Just starting to learn applying Dictionary Comprehension.
 - Exploring/googling about CTF, Hack The Box, TryHackMe, DSA (Leetcode & HackerRank). Project-Based Learning is still "king" for me right now.
+- Stay consistent tomorrow with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
+
+Day 32/100 : 15 February 2026, Sunday (≈70 mins ; >1 hour✅)
+> What do I do today :
+- Solved Coding Exercise 18 & 19 Day 26 of the course by myself about applying Dictionary Comprehension challenges.
+- Just starting to work Day 26 Final Project "The NATO Alphabet Project". (10% finished)
+- I still don't understand about Python Pandas .iterrows() method for Dict Comprehension. Feel so lazy to understand it right now =)
 - Stay consistent tomorrow with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
