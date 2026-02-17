@@ -303,3 +303,12 @@ Day 33/100 : 16 February 2026, Monday (≈60 mins ; >1 hour✅)
 - Stay consistent tomorrow with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 34/100 : 17 February 2026, Tuesday (≈80 mins ; >1 hour✅)
+> What do I do today :
+- I finally decided to try building my own projects without courses and also adhering to SDLC principles in order to grow beyond just an intermediate Python programmer (Comfort Zone). Significant growths are happen outside my comfort zone.
+- Decided to work on my very first independent project "Simple GUI Calculator App" using PyQt (first time using PyQt). Honestly, I have no idea =) I am trying to follow the SDLC principles waterfall model for the first time.
+- Thinking about building a TIL "Today I Learned" Micro-Blog for 100-Days-Of-Code Challenge accountability and also serve as a portfolio for a chronological learning journey.
+- Stay consistent with programming every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
