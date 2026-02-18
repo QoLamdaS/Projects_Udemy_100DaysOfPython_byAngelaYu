@@ -312,3 +312,12 @@ Day 34/100 : 17 February 2026, Tuesday (≈80 mins ; >1 hour✅)
 - Stay consistent with programming every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 35/100 : 18 February 2026, Wednesday (≈80 mins ; >1 hour✅)
+> What do I do today :
+- Decided to build the TIL "Today I Learned" Micro-Blog (mini-website) project firstly.
+- Working finished?? requirement MVP and tech stack selection for building that project. I really have no idea.
+- So frustrated to build projects independently without courses. But it is necessary to grow beyond just an intermediate Python programmer. Significant growths are only happens outside my comfort zone.
+- Have to stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
