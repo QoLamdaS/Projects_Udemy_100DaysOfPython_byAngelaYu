@@ -321,3 +321,11 @@ Day 35/100 : 18 February 2026, Wednesday (≈80 mins ; >1 hour✅)
 - Have to stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 36/100 : 19 February 2026, Thursday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Just showing up for "programming" today. I'm busy for today.
+- Organized my Python packages in my PC. Uninstall all global Python packages through Windows Administrator Powershell. And then install Python Flask packages in virtual environment VScode for building TIL Micro-Blog project. Honestly I feel a bit lost for now.
+- Comeback tomorrow to stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
