@@ -329,3 +329,12 @@ Day 36/100 : 19 February 2026, Thursday (≈5 mins ; <1 hour❌)
 - Comeback tomorrow to stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 37/100 : 20 February 2026, Friday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Installed all necessary Python packages in a virtual environment VScode for building TIL "Today I Learned" Micro-Blog (mini-website).
+- Learning about Python Flask from zero (without courses). Trying to print hello world using Python Flask. I have no idea =)
+- Today I feel a bit sick and feel so exhausted and also unproductive. Just showing up for programming today.
+- Comeback tomorrow to stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
