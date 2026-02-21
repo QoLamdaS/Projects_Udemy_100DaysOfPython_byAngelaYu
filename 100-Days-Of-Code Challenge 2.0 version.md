@@ -338,3 +338,13 @@ Day 37/100 : 20 February 2026, Friday (≈25 mins ; <1 hour❌)
 - Comeback tomorrow to stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 38/100 : 21 February 2026, Saturday (≈35 mins ; <1 hour❌)
+> What do I do today :
+- Finally solved the error to print hello world in Python Flask. I fixed with if __name__ == "__main__": app.run(debug=True) .Honestly, I really have no idea.
+- So far, what I understand about Python Flask is basically my code talks to the internet (not to the computer usually for me).
+- I have trials-and-errors print hello world Python Flask. Hopefully, to understand for more to me.
+- Today I have to study for my tough midterm exams. I'm busy for now. Honestly, I feel lost building projects without courses, but it is necessary =)
+- Stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
