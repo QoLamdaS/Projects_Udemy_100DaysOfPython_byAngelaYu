@@ -348,3 +348,12 @@ Day 38/100 : 21 February 2026, Saturday (≈35 mins ; <1 hour❌)
 - Stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 39/100 : 22 February 2026, Sunday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- I really have no idea building a TIL "Today I Learned" Micro-Blog (mini-website) using Python Flask. I must be patient.
+- Trying to figure it out Python Flask concepts through googling and Quickstart Official Documentation. I feel lost honestly =)
+- Today I'm busy studying for my tough midterm exams next week.
+- Stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
