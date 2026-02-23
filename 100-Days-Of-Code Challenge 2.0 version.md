@@ -357,3 +357,10 @@ Day 39/100 : 22 February 2026, Sunday (≈25 mins ; <1 hour❌)
 - Stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 40/100 : 23 February 2026, Monday (≈10 mins ; <1 hour❌)
+> What do I do today :
+- Just showing up for "programming" today. I really have no idea about Python Flask print outputs. I don't know why the outputs can't be opened in my browser. I'm really confused. (struggling)
+- Today I'm really busy (or unproductively busy) for school and studying for my tough midterm exams.
+- Pls comeback to stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY CODING!
