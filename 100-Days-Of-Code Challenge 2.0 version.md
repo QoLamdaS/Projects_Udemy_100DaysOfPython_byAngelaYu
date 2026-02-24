@@ -364,3 +364,11 @@ Day 40/100 : 23 February 2026, Monday (≈10 mins ; <1 hour❌)
 - Today I'm really busy (or unproductively busy) for school and studying for my tough midterm exams.
 - Pls comeback to stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY CODING!
+
+Day 41/100 : 24 February 2026, Tuesday (≈30 mins ; <1 hour❌)
+> What do I do today :
+- Setting up the default browser for the extension LiveServer VScode.
+- Trying to comprehend Python Flask (HTML5 & CSS3) and SQLAlchemy on big picture. So far, the roles for my TIL "Today I Learned" Micro-Blog Project are Python Flask as a brain manager, HTML & CSS3 as frontend UI, SQLAlchemy to save data and prevent data loss for refreshing (act as a storage). I really have no idea, still struggling.
+- Today I'm really busy and exhausted for school and studying for my tough midterm exams.
+- Stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY CODING!
