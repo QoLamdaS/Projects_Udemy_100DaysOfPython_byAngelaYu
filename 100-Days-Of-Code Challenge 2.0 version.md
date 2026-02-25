@@ -372,3 +372,11 @@ Day 41/100 : 24 February 2026, Tuesday (≈30 mins ; <1 hour❌)
 - Today I'm really busy and exhausted for school and studying for my tough midterm exams.
 - Stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY CODING!
+
+Day 42/100 : 25 February 2026, Wednesday (≈35 mins ; <1 hour❌)
+> What do I do today :
+- My head blew up. I really have no idea how to build a TIL "Today I Learned" Micro-Blog. I feel I want to abandon this project :| However, I choose to build some projects independently to level up significantly.
+- Learned about HTML boilerplate a bit.
+- I feel so exhausted for studying and school (I'm busy).
+- Stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY CODING!
