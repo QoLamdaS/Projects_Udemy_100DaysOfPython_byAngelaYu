@@ -380,3 +380,10 @@ Day 42/100 : 25 February 2026, Wednesday (≈35 mins ; <1 hour❌)
 - I feel so exhausted for studying and school (I'm busy).
 - Stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY CODING!
+
+Day 43/100 : 26 February 2026, Thursday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- I'm very busy today (REALL) bcs of overwhelming schools.
+- I feel lost. I have read Flask-SQLAlchemy a bit. I really have no idea for a TIL "Today I Learned" Micro-Blog project.
+- Comeback to stay consistent building projects independently every day for at least 25 minutes for me.
+- HAPPY LEARNING!
