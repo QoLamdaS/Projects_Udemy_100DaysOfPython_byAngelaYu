@@ -387,3 +387,10 @@ Day 43/100 : 26 February 2026, Thursday (≈5 mins ; <1 hour❌)
 - I feel lost. I have read Flask-SQLAlchemy a bit. I really have no idea for a TIL "Today I Learned" Micro-Blog project.
 - Comeback to stay consistent building projects independently every day for at least 25 minutes for me.
 - HAPPY LEARNING!
+
+Day 44/100 : 27 February 2026, Friday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- I feel completely lost and really have no idea what I'm doing. Feel so exhausted and sleepy right now.
+- I really have no idea. I feel directionless. I need to figure it out.
+- Stay Consistent at least for 25 minutes every day.
+- HAPPY CODING!
