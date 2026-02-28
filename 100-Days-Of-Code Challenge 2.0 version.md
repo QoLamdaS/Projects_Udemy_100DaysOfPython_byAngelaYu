@@ -394,3 +394,11 @@ Day 44/100 : 27 February 2026, Friday (≈25 mins ; <1 hour❌)
 - I really have no idea. I feel directionless. I need to figure it out.
 - Stay Consistent at least for 25 minutes every day.
 - HAPPY CODING!
+
+Day 45/100 : 28 February 2026, Saturday (≈60 mins ; >1 hour✅)
+> What do I do today :
+- I feel lost and really have no idea. So, for the emergency: Taking more programming independently while Dr. Angela Yu's course. (returning to Dr. Angela Yu's course to keep moving forward). 
+- Just starting Day 27 of the course about Tkinter. I am trying to do more programming without Dr. Angela Yu's course, according to the SDLC principles hopefully.
+- Stay Consistent for Project-Based Learning at least 25 minutes every day.
+- HAPPY CODING!!!
+- HAPPY LEARNING!!!
