@@ -430,3 +430,9 @@ Day 49/100 :  4 March 2026, Wednesday (≈5 mins ; <1 hour❌)
 - I'm really busy today again REALLL, studying for my midterm exama tomorrow.
 - Comeback to stay consistent hopefully for 'Project-Based Learning' at least 25 minutes every day.
 - HAPPY LEARNING!
+
+Day 50/100 :  5 March 2026, Thursday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Just showing up "programming" today. Reviewed OOP concepts in Python a little bit.
+- I'm so busy with my midterm exams tomorrow.
+- HAPPY LEARNING!
