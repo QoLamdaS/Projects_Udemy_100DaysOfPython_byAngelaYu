@@ -436,3 +436,10 @@ Day 50/100 :  5 March 2026, Thursday (≈5 mins ; <1 hour❌)
 - Just showing up "programming" today. Reviewed OOP concepts in Python a little bit.
 - I'm so busy with my midterm exams tomorrow.
 - HAPPY LEARNING!
+
+Day 51/100 :  6 March 2026, Friday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Just showing up "programming" today again.
+- Completed to watch Lecture 205 Day 27 of the course about the introduction of Python Tkinter.
+- I'm extremely exhausted and so sleepy right now.
+- HAPPY LEARNING!
