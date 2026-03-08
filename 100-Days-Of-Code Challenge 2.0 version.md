@@ -450,3 +450,12 @@ Day 52/100 :  7 March 2026, Saturday (≈10 mins ; <1 hour❌)
 - Watched Lecture 206 Day 27 of the course about setting the default values in arguements.
 - Honestly I feel so unmotivated and so sluggish and tired today.
 - HAPPY LEARNING!
+
+Day 53/100 :  8 March 2026, Sunday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Understand a bit about Default Values (Quiz 14). I'm still unmotivated for "programming" hehehe =)
+- Tackled the Lecture 207 in Day 27 challenge about *args (unlimited positional arguments) by myself.
+- Just starting to watch Lecture 208 Day 27 about **kwargs in Python arguments.
+- I'm busy studying for my midterm exams tomorrow.
+- HAPPY LEARNING!
+- HAPPY CODING!
