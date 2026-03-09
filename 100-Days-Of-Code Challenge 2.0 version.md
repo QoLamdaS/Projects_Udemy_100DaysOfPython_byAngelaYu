@@ -459,3 +459,11 @@ Day 53/100 :  8 March 2026, Sunday (≈25 mins ; <1 hour❌)
 - I'm busy studying for my midterm exams tomorrow.
 - HAPPY LEARNING!
 - HAPPY CODING!
+
+Day 54/100 :  9 March 2026, Monday (≈25 mins ; <1 hour❌)
+> What do I do today :
+- Watched Lecture 208 Day 27 about **kwargs Keyword Arguments.
+- Understand a bit the differences between **kwargs (Keyword Arguments) and *args (Unlimited Positional Arguments) through QUIZ 15 of Day 27 Course.
+- I'm busy studying for my midterm exams and feel so unmotivated to learn "programming" =)
+- HAPPY LEARNING!!!
+- HAPPY CODING!!!
