@@ -467,3 +467,9 @@ Day 54/100 :  9 March 2026, Monday (≈25 mins ; <1 hour❌)
 - I'm busy studying for my midterm exams and feel so unmotivated to learn "programming" =)
 - HAPPY LEARNING!!!
 - HAPPY CODING!!!
+
+Day 55/100 :  10 March 2026, Tuesday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Reading the differences between *args (unlimited positional arguments) and **kwargs (keyword arguments) in Python Tkinter Day 27 of the course.
+- I'm still really busy studying for my midterm exams tomorrow.
+- HAPPY LEARNING!
