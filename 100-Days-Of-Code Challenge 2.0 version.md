@@ -501,3 +501,9 @@ Day 60/100 :  15 March 2026, Sunday (≈5 mins ; <1 hour❌)
 - Just showing up for "programming" today again again. I feel very unmotivated to do programming today I really have no idea.
 - Just reading about Python Tkinter doc.
 - HAPPY LEARNING!
+
+Day 61/100 :  16 March 2026, Monday (≈5 mins ; <1 hour❌)
+> What do I do today :
+- Just reading a little bit about Python GUI frameworks.
+- Today I'm very busy completing my schoolworks. And also still feel unmotivated and very lazy.
+- HAPPY LEARNING!
