@@ -507,3 +507,10 @@ Day 61/100 :  16 March 2026, Monday (≈5 mins ; <1 hour❌)
 - Just reading a little bit about Python GUI frameworks.
 - Today I'm very busy completing my schoolworks. And also still feel unmotivated and very lazy.
 - HAPPY LEARNING!
+
+Day 62/100 :  17 March 2026, Tuesday (≈25 mins ; <1 hour❌)
+> What have I done this day?
+- Finally I do "programming" today. I feel so lazy and so unmotivated actually.
+- Finished Lecture 209 Day 27 solving two challenges about pack, button, entry methods in Tkinter class. Solved by myself.
+- HAPPY CODING!
+- HAPPY LEARNING!
