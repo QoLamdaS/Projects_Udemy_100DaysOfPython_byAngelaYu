@@ -1,23 +1,23 @@
 import tkinter
 
 window = tkinter.Tk()
-window.title("soo ori First GUI Program idk")
-window.minsize(width=500, height=300)
 
-my_label = tkinter.Label(text="I am a Label", font=("Arial", 24, "bold"))
-my_label.pack()
+window.title("My First GUI Program")
+window.minsize(width=508, height=368)
+
+#Label
+
+my_label = Lael (ey = Am a Label", font=("Arial®, 24, "bold"))
 my_label.config(text="New Text")
 
-def button_clicked():
-    new_text = input.get()
-    my_label.config(text=new_text)
+my_label.grid(-olunn=8, row=8)
 
-button = tkinter.Button(text="Click Me", command=button_clicked)
-button.pack()
-input = tkinter.Entry(width=10)
-input.insert(0, "Some text to begin with.")
-input.pack()
+#Button
 
+button = Button(text="Click Me", connand=button_clicked)
+#Entry
+input = Entry(width=18)
+print(input.get())
 
 window.mainloop()
 
