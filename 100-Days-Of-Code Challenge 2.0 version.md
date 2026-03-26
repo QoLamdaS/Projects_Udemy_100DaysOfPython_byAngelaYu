@@ -558,3 +558,11 @@ Day 70/100: 25 March 2026, Wednesday (≈25 mins ; >25mins✅)
 - My new realistic goal every day = Learn to code & programming for 25 mins
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 71/100: 26 March 2026, Thursday (≈25 mins ; >25mins✅)
+> What have I done today?
+- A little bit distracted for Python programming today.
+- Still stucking to solve Lecture 211 Day 27 first challenge by myself about Tkinter pack(), place(), grid() 
+- I really have no idea this day.
+- Happy Coding!
+- HAPPY LEARNING!!!
