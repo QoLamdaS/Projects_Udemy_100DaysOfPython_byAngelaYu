@@ -6,6 +6,7 @@ window.title("My First GUI Program")
 window.minsize(width=500, height=300)
 
 def button_clicked():
+    print("I got clicked!")
     my_label.config(text=input.get())
 
 #Label
