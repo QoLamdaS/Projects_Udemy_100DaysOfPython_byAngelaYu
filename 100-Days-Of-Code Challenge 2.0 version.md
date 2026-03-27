@@ -566,3 +566,10 @@ Day 71/100: 26 March 2026, Thursday (≈25 mins ; >25mins✅)
 - I really have no idea this day.
 - Happy Coding!
 - HAPPY LEARNING!!!
+
+Day 72/100: 27 March 2026, Friday (≈25 mins ; >25mins✅)
+> What have I done today?
+- I really have no idea how to fix the Python Tkinter GUI app won't show up after running the file. I'm still struggling.
+- I have no idea for today.
+- Happy Coding!
+- HAPPY LEARNING!!!
