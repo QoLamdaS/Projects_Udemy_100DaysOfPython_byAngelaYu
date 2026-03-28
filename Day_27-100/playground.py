@@ -18,10 +18,13 @@ my_label.grid(column=0, row=0)
 button = tkinter.Button(text="Click Me", command=button_clicked)
 button.grid(column=1, row=1)
 
+new_button = tkinter.Button(text="New Button")
+new_button.grid(column=2, row=0)
+
 #Entry
-input = tkinter.Entry(width=18)
+input = tkinter.Entry(width=10)
 print(input.get())
-input.grid(column=2, row=2)
+input.grid(column=3, row=2)
 
 window.mainloop()
 
