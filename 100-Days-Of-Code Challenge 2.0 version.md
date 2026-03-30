@@ -588,3 +588,10 @@ Day 74/100: 29 March 2026, Sunday (≈25 mins ; >25mins✅)
 - Today I feel a bit exhausted, and I also got ill Common Cold.
 - HAPPY CODING!!!
 - HAPPY LEARNING!!!
+
+Day 75/100: 30 March 2026, Monday (≈5 mins ; >25mins❌)
+> What have I done today?
+-Today is truly busy with my demanding schoolworks.
+- Just showing up. Working a little bit for Day 27 final project "Miles-to-Kilometers Converter App" using Python Tkinter.
+- Happy Coding!
+- Happy Learning!
