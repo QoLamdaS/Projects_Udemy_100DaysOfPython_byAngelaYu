@@ -595,3 +595,12 @@ Day 75/100: 30 March 2026, Monday (≈5 mins ; >25mins❌)
 - Just showing up. Working a little bit for Day 27 final project "Miles-to-Kilometers Converter App" using Python Tkinter.
 - Happy Coding!
 - Happy Learning!
+
+Day 76/100: 31 March 2026, Tuesday (≈25 mins ; >25mins✅)
+> What have I done today?
+- I got distracted while programming.
+- Finally completed Day 27 final project "Miles-to-Kilometers Converter App" by myself. I have no idea =)
+- Finally finished Day 27 of the course by Dr. Angela Yu.
+- Just starting out Day 28 of the course.
+- Happy Coding!
+- Happy Learning!
