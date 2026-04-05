@@ -22,3 +22,10 @@ window.title("Tomat timer")
 
 canva = tkinter.Canvas(width=200, height=224)
 tomato_image = tkinter.PhotoImage(file="Day_28-100\\Pomodoro Timer GUI App\\tomato.png")
+canva.create_image(100, 112, image=tomato_image)
+canva.pack()
+
+
+
+window.mainloop()
+
