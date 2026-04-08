@@ -19,10 +19,11 @@ LONG_BREAK_MIN = 20
 # ---------------------------- UI SETUP ------------------------------- #
 window = tkinter.Tk()
 window.title("Tomat timer")
+window.config(padx=100, pady=50, bg=YELLOW)
 
 canva = tkinter.Canvas(width=200, height=224)
 tomato_image = tkinter.PhotoImage(file="Day_28-100\\Pomodoro Timer GUI App\\tomato.png")
-canva.create_image(100, 112, image=tomato_image)
+canva.create_image(103, 112, image=tomato_image)
 canva.pack()
 
 
