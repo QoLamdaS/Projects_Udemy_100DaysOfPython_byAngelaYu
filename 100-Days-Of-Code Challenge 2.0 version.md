@@ -605,13 +605,13 @@ Day 76/100: 31 March 2026, Tuesday (≈25 mins ; >25mins✅)
 - Happy Coding!
 - Happy Learning!
 
-Day 77/100: 1 March 2026, Wednesday (≈5 mins ; >25mins❌)
+Day 77/100: 1 April 2026, Wednesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Today I'm very busy REAL with heavy schoolwork. Just showing up "programming".
 - Just starting Day 28 of the course Lecture 213 deeper Python Tkinter.
 - Happy Learning!
 
-Day 78/100: 2 March 2026, Thursday (≈25 mins ; >25mins✅)
+Day 78/100: 2 April 2026, Thursday (≈25 mins ; >25mins✅)
 > What have I done today?
 - Today I'm very busy REAL again.
 - Starting to work on Day 28 final project "Pomodoro Timer GUI App" using Python Tkinter (currently in Lecture 214 Day 28).
@@ -619,51 +619,51 @@ Day 78/100: 2 March 2026, Thursday (≈25 mins ; >25mins✅)
 - Happy Coding!
 - Happy Learning!
 
-Day 79/100: 3 March 2026, Friday (≈5 mins ; >25mins❌)
+Day 79/100: 3 April 2026, Friday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Today I'm busy again real. I feel lazy =)
 - Watched a little bit Lecture 214 Day 28 about delving deeper Python Tkinter.
 - Happy Learning!
 
-Day 80/100: 4 March 2026, Saturday (≈5 mins ; >25mins❌)
+Day 80/100: 4 April 2026, Saturday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Today I have some really urgent things to complete today. I Really busy today REALLL.
 - Reviewed a little bit of Python Tkinter.
 - Happy Learning!
 
-Day 81/100: 5 March 2026, Sunday (≈25 mins ; >25mins✅)
+Day 81/100: 5 April 2026, Sunday (≈25 mins ; >25mins✅)
 > What have I done today?
 - I got distracted while "programming". I feel so lazy for today.
 - Still watched a bit Lecture 214 Day 28. Reviewed a bit of *args and **kwargs
 - I feel so lazy today. Just showing up.
 - Happy Learning!
 
-Day 82/100: 6 March 2026, Monday (≈5 mins ; >25mins❌)
+Day 82/100: 6 April 2026, Monday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up. I have urgent things today. Feel so busy
 - Watched a little bit of Lecture 214 Day 28.
 - Happy Learning!
 
-Day 83/100: 7 March 2026, Tuesday (≈5 mins ; >25mins❌)
+Day 83/100: 7 April 2026, Tuesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm really busy today due to homeworks REAL. Just showing up today
 - Reviewed a bit about OOP concepts in Python.
 - Happy Learning!
 
-Day 84/100: 8 March 2026, Wednesday (≈5 mins ; >25mins❌)
+Day 84/100: 8 April 2026, Wednesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm really busy today again due to my overwhelming homeworks REAL. Just showing up "programming" today.
 - Working a little bit Day 28 final project "Pomodoro Timer GUI App" in Lecture 214 Day 28.
 - Happy Coding!
 - Happy Learning!
 
-Day 85/100: 9 March 2026, Thursday (≈5 mins ; >25mins❌)
+Day 85/100: 9 April 2026, Thursday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm very really busy today again^2 due to my overwhelming homeworks REAL. Just showing up "programming" today.
 - Reading Python usages for electricians. Working a little bit Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 86/100: 10 March 2026, Friday (≈15 mins ; >25mins❌)
+Day 86/100: 10 April 2026, Friday (≈15 mins ; >25mins❌)
 > What have I done today?
 - Distracted a bit while "programming". Still very busy for today.
 - Finished watching Lecture 214 Day 28. I feel so lazy and really sleepy.
@@ -671,88 +671,88 @@ Day 86/100: 10 March 2026, Friday (≈15 mins ; >25mins❌)
 - I don't know why today I feel so unmotivated, sluggish, and bored to learn programming.
 - HAPPY CODING!!!
 
-Day 87/100: 11 March 2026, Saturday (≈25 mins ; <25mins✅)
+Day 87/100: 11 April 2026, Saturday (≈25 mins ; <25mins✅)
 > What have I done today?
 - Distracted while I "programming". Today I feel so unmotivated, unproductive, sluggish, and lazy really. I really have no idea.
 - Watched Lecture 215 Day 28. Trying to solve that challenge for Python Tkinter Pomodoro Timer GUI App. Feel so lazy.
 - HAPPY CODING!
 - Happy Learning!
 
-Day 88/100: 12 March 2026, Sunday (≈5 mins ; >25mins❌)
+Day 88/100: 12 April 2026, Sunday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm busy today REAL due to my homework. Just showing up for today.
 - Trying to solve the first challenge of Lecture 215 Day 28 "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 89/100: 13 March 2026, Monday (≈5 mins ; >25mins❌)
+Day 89/100: 13 April 2026, Monday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm busy today REAL due to my homework. Just showing up for today again.
 - Trying to solve the first challenge of Lecture 215 Day 28 "Pomodoro Timer GUI App" again.
 - Happy Learning!
 
-Day 90/100: 14 March 2026, Tuesday (≈5 mins ; >25mins❌)
+Day 90/100: 14 April 2026, Tuesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm busy today REAL bcs of my stressful homeworks. Just showing up today.
 - Progressing to solve the challenge Lecture 215 Day 28 by myself.
 - Happy Coding!
 - Happy Learning!
 
-Day 91/100: 15 March 2026, Wednesday (≈10 mins ; >25mins❌)
+Day 91/100: 15 April 2026, Wednesday (≈10 mins ; >25mins❌)
 > What have I done today?
 - I'm very busy today REAL again bcs of my demanding stressful homeworks. Just showing up "programming" today.
 - Solved the challenge Lecture 215 Day 28 by myself for progressing Day 28 final project "Pomodoro Timer GUI App".
 - HAPPY CODING!
 - Happy Learning!!!
 
-Day 92/100: 16 March 2026, Thursday (≈5 mins ; >25mins❌)
+Day 92/100: 16 April 2026, Thursday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm very busy today REAL again bcs of my demanding stressful homeworks again. Just showing up today.
 - Just starting out Lecture 216 Day 28 about the timer countdown mechanism for Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 93/100: 17 March 2026, Friday (≈5 mins ; >25mins❌)
+Day 93/100: 17 April 2026, Friday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm very busy today REAL again bcs of my demanding stressful homeworks again. Just showing up for today again.
 - Watching a little bit of Lecture 216 Day 28 about the timer countdown mechanism for Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 94/100: 18 March 2026, Saturday (≈5 mins ; >25mins❌)
+Day 94/100: 18 April 2026, Saturday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm very busy today REAL again bcs of my demanding stressful homeworks again2. Just showing up for today again2.
 - Watched a little bit of Lecture 216 Day 28 about the timer countdown mechanism for Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 95/100: 19 March 2026, Sunday (≈5 mins ; >25mins❌)
+Day 95/100: 19 April 2026, Sunday (≈5 mins ; >25mins❌)
 > What have I done today?
 - I'm so busy today REAL again222 bcs of my stressful homeworks again. Just showing up.
 - Watched very a little bit of Lecture 216 Day 28 about the timer countdown mechanism for Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 96/100: 20 March 2026, Monday (≈5 mins ; >25mins❌)
+Day 96/100: 20 April 2026, Monday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today. I'm very busy for my school exams and homework.
 - Watched a very2 little bit of Lecture 216 Day 28 about the timer countdown mechanism for Day 28 final project "Pomodoro Timer GUI App".
 - Happy Learning!
 
-Day 97/100: 21 March 2026, Tuesday (≈5 mins ; >25mins❌)
+Day 97/100: 21 April 2026, Tuesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm very very very busy for my school exams tomorrow.
 - Watched a little bit of Lecture 216 Day 28.
 - Happy Learning!
 
-Day 98/100: 22 March 2026, Wednesday (≈5 mins ; >25mins❌)
+Day 98/100: 22 April 2026, Wednesday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm extremely busy studying for my tough school exams tomorrow.
 - Watched a very little bit of Lecture 216 Day 28.
 - Happy Learning!
 
-Day 99/100: 23 March 2026, Thursday (≈5 mins ; >25mins❌)
+Day 99/100: 23 April 2026, Thursday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm also extremely busy studying for my tough exams tomorrow.
 - Watched a very very very little bit of Lecture 216 Day 28.
 - Happy Learning!
 
-Day 100/100: 24 March 2026, Friday (≈5 mins ; >25mins❌)
+Day 100/100: 24 April 2026, Friday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm still extremely busy studying for my homework.
 - Watched a very very very little bit of Lecture 216 Day 28.
