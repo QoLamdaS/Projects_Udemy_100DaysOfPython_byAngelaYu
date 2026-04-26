@@ -8,3 +8,9 @@ Day 0/100: 25 April 2026, Saturday (≈5 mins ; >25mins❌)
 - Edit my GitHub a bit. I really have no idea.
 - Officially starting 100 Days Of Code Challenge Round 3 from today.
 - Happy Learning!
+
+Day 1/100: 26 April 2026, Sunday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up today again. I'mso  still extremely busy completing for schoolworks.
+- I really have no idea what should I do. Honestly, I feel so lazy and also unmotivated to do programming.
+- Happy Learning!
