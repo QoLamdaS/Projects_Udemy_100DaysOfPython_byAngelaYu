@@ -14,3 +14,8 @@ Day 1/100: 26 April 2026, Sunday (≈5 mins ; >25mins❌)
 - Just showing up today again. I'mso  still extremely busy completing for schoolworks.
 - I really have no idea what should I do. Honestly, I feel so lazy and also unmotivated to do programming.
 - Happy Learning!
+
+Day 2/100: 27 April 2026, Monday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up today again. I'm still very so extremely busy with my very demanding schoolworks.
+- Feel so lazy to do programming.
