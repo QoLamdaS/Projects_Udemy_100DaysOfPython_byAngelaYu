@@ -19,3 +19,10 @@ Day 2/100: 27 April 2026, Monday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm still very so extremely busy with my very demanding schoolworks.
 - Feel so lazy to do programming.
+
+Day 3/100: 28 April 2026, Tuesday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Still busy with my demanding schoolworks. Just showing up again
+- Watched a bit Lecture 216 Day 28.
+- Feel very so lazy and tired and bored to do programming.
+- Happy Learning!
