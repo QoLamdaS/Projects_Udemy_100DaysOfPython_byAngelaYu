@@ -26,3 +26,10 @@ Day 3/100: 28 April 2026, Tuesday (≈5 mins ; >25mins❌)
 - Watched a bit Lecture 216 Day 28.
 - Feel very so lazy and tired and bored to do programming.
 - Happy Learning!
+
+Day 4/100: 29 April 2026, Wednesday (≈5 mins ; >25mins❌)
+> What have I done today?
+- I'm very busy studying for my exams tomorrow. Just showing up again.
+- Watched a little bit Lecture 216 Day 28.
+- I feel so lazy and exhausted to do programming.
+- Happy Learning!
