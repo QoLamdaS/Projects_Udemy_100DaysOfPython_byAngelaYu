@@ -33,3 +33,9 @@ Day 4/100: 29 April 2026, Wednesday (≈5 mins ; >25mins❌)
 - Watched a little bit Lecture 216 Day 28.
 - I feel so lazy and exhausted to do programming.
 - Happy Learning!
+
+Day 5/100: 30 April 2026, Thursday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up again to do "programming" today.
+- I feel so lazy, bored, and tired. I really have no idea. Maybe I "burnout??". Hopefully not.
+- Happy Learning!
