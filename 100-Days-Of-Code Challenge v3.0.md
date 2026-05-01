@@ -39,3 +39,9 @@ Day 5/100: 30 April 2026, Thursday (≈5 mins ; >25mins❌)
 - Just showing up again to do "programming" today.
 - I feel so lazy, bored, and tired. I really have no idea. Maybe I "burnout??". Hopefully not.
 - Happy Learning!
+
+Day 6/100: 1 May 2026, Monday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up again to do "programming" today again. Feel incredibly lazy today.
+- Watched a little bit Lecture 216 Day 28 for building Pomodoro Timer GUI App using Python Tkinter.
+- Happy Learning!
