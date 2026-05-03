@@ -51,3 +51,8 @@ Day 7/100: 2 May 2026, Saturday (≈5 mins ; >25mins❌)
 - Just showing up today again. I'm extremely busy for studying tough exams.
 - Watched a little bit Lecture 216 Day 28 for building Pomodoro Timer GUI App using Python Tkinter. So busy.
 - Happy Learning!
+
+Day 8/100: 3 May 2026, Sunday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up today again. I'm very extremely busy studying for the maths exam tomorrow.
+- Watched a very little bit Lecture 216 Day 28 for building Pomodoro Timer GUI App using Python Tkinter. I really have no idea.
