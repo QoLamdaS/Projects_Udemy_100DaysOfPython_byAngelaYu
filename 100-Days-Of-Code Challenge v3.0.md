@@ -56,3 +56,8 @@ Day 8/100: 3 May 2026, Sunday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm very extremely busy studying for the maths exam tomorrow.
 - Watched a very little bit Lecture 216 Day 28 for building Pomodoro Timer GUI App using Python Tkinter. I really have no idea.
+
+Day 9/100: 4 May 2026, Monday (≈5 mins ; >25mins❌)
+> What have I done today?
+- Just showing up today again. I'm very exhausted and sleepy.
+- Reviewed a little bit of OOP concepts in Python. I really have no idea. Feel so lazy.
