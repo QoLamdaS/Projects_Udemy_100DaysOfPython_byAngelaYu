@@ -61,3 +61,10 @@ Day 9/100: 4 May 2026, Monday (≈5 mins ; >25mins❌)
 > What have I done today?
 - Just showing up today again. I'm very exhausted and sleepy.
 - Reviewed a little bit of OOP concepts in Python. I really have no idea. Feel so lazy.
+
+Day 10/100: 5 May 2026, Tuesday (≈12 mins ; >25mins❌)
+> What I done this day?
+- Trying to solve the first challenge Lecture 216 Day 28 of the course about event-driven in Python Tkinter.
+- Just showing up. I feel so lazy =)
+- Happy Learning!
+- Happy Coding!
