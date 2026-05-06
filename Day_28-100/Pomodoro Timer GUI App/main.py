@@ -15,7 +15,8 @@ LONG_BREAK_MIN = 20
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
-#? I have no idea
+def count_down(count):
+    canva.
 # ---------------------------- UI SETUP ------------------------------- #
 window = tkinter.Tk()
 window.title("Tomat timer")
