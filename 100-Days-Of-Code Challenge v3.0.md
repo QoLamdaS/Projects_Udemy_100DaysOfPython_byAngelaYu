@@ -76,3 +76,10 @@ Day 11/100: 6 May 2026, Wednesday (≈5 mins ; >25mins❌)
 - Just showing up. I feel so lazy =)
 - Happy Learning!
 - Happy Coding!
+
+Day 12/100: 7 May 2026, Thursday (≈5 mins ; >25mins❌)
+> What I done this day?
+- Trying to solve the first challenge Lecture 216 Day 28 a little bit. I really have no idea.
+- Just showing up. I'm busy today.
+- Happy Learning!
+- Happy Coding!
