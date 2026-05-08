@@ -83,3 +83,10 @@ Day 12/100: 7 May 2026, Thursday (≈5 mins ; >25mins❌)
 - Just showing up. I'm busy today.
 - Happy Learning!
 - Happy Coding!
+
+Day 13/100: 8 May 2026, Friday (≈5 mins ; >25mins❌)
+> What I done this day?
+- Working first challenge Lecture 216 Day 28 a little bit. I really have no idea how to solve this.
+- Just showing up. I'm really really really busy right now.
+- Happy Learning!
+- Happy Coding!
