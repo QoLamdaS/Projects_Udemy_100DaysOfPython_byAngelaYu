@@ -97,3 +97,10 @@ Day 14/100: 9 May 2026, Saturday (≈5 mins ; >25mins❌)
 - Just showing up today. I feel so exhausted and tired.
 - Happy Learning!
 - Happy Coding!
+
+Day 15/100: 10 May 2026, Sunday (≈5 mins ; >25mins❌)
+> What I done this day?
+- I have no idea for solving the first challenge Lecture 216 Day 28.
+- Just showing up today. I'm busy preparing for my endterm exams tomorrow.
+- Happy Learning!
+- Happy Coding!
