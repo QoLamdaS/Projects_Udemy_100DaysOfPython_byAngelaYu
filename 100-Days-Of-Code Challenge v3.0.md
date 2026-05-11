@@ -104,3 +104,10 @@ Day 15/100: 10 May 2026, Sunday (≈5 mins ; >25mins❌)
 - Just showing up today. I'm busy preparing for my endterm exams tomorrow.
 - Happy Learning!
 - Happy Coding!
+
+Day 16/100: 11 May 2026, Monday (≈5 mins ; >25mins❌)
+> What I done this day?
+- No idea for solving the first challenge Lecture 216 Day 28.
+- Just showing up today. I'm really really busy studying for my endterm exams tomorrow.
+- Happy Learning!
+- Happy Coding!
