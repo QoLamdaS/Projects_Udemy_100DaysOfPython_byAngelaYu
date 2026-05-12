@@ -111,3 +111,9 @@ Day 16/100: 11 May 2026, Monday (≈5 mins ; >25mins❌)
 - Just showing up today. I'm really really busy studying for my endterm exams tomorrow.
 - Happy Learning!
 - Happy Coding!
+
+Day 17/100: 12 May 2026, Tuesday (≈5 mins ; >25mins❌)
+> What I done this day?
+- No idea for solving the first challenge Lecture 216 Day 28.
+- Just showing up today. I'm really really busy studying for my endterm chemistry exam tomorrow.
+- Happy Learning!
