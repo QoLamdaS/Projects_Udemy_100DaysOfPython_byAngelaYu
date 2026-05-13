@@ -117,3 +117,9 @@ Day 17/100: 12 May 2026, Tuesday (≈5 mins ; >25mins❌)
 - No idea for solving the first challenge Lecture 216 Day 28.
 - Just showing up today. I'm really really busy studying for my endterm chemistry exam tomorrow.
 - Happy Learning!
+
+Day 18/100: 13 May 2026, Wednesday (≈5 mins ; >25mins❌)
+> What I done this day?
+- Try to solve the first challenge Lecture 216 Day 28. 
+- Just showing up today. I'm really busy studying for my endterm exams and really exhausted.
+- Happy Learning!
