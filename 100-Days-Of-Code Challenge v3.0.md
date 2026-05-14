@@ -123,3 +123,9 @@ Day 18/100: 13 May 2026, Wednesday (≈5 mins ; >25mins❌)
 - Try to solve the first challenge Lecture 216 Day 28. 
 - Just showing up today. I'm really busy studying for my endterm exams and really exhausted.
 - Happy Learning!
+
+Day 19/100: 14 May 2026, Thursday (≈5 mins ; >25mins❌)
+> What I done this day?
+- Try to solve the first challenge Lecture 216 Day 28. 
+- Just showing up today. I'm still really busy studying for my endterm exams and really exhausted and tired.
+- Happy Learning!
