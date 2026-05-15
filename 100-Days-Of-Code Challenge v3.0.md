@@ -129,3 +129,10 @@ Day 19/100: 14 May 2026, Thursday (≈5 mins ; >25mins❌)
 - Try to solve the first challenge Lecture 216 Day 28. 
 - Just showing up today. I'm still really busy studying for my endterm exams and really exhausted and tired.
 - Happy Learning!
+
+Day 20/100: 15 May 2026, Friday (≈25 mins ; >25mins✅)
+> What I done this day?
+- Fixing bugs in my code during Lecture 216 Day 28. I feel really lazy for programming.
+- Just showing up today. I'm still busy studying for my endterm exams and really exhausted and lazy.
+- Happy Coding!
+- Happy Learning!
