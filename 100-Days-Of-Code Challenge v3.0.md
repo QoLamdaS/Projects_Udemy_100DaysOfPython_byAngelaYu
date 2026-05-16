@@ -136,3 +136,10 @@ Day 20/100: 15 May 2026, Friday (≈25 mins ; >25mins✅)
 - Just showing up today. I'm still busy studying for my endterm exams and really exhausted and lazy.
 - Happy Coding!
 - Happy Learning!
+
+Day 21/100: 16 May 2026, Saturday (≈25 mins ; >25mins✅)
+> What I done this day?
+- Solved challenge Lecture 216 Day 28. I feel really lazy for programming. I got distracted.
+- Just showing up today. I'm still busy studying for my endterm exams and reallly lazyyy
+- Happy Coding!
+- Happy Learning!
