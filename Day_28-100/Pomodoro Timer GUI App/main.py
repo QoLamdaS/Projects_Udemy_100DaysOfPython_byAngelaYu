@@ -32,15 +32,13 @@ canva.create_image(100, 112, image=tomato_image)
 timer_text = canva.create_text(100, 130, text="00:00", fill="white", font=(FONT_NAME, 35, "bold"))
 canva.grid(column=1, row=1)
 
-
-
 timer_label = tkinter.Label(text="Timer", fg=GREEN, bg=YELLOW, font=(FONT_NAME, 50))
 timer_label.grid(column=1, row=0)
 
 checkmarks_label = tkinter.Label(text="✔", fg=GREEN, bg=YELLOW)
 checkmarks_label.grid(column=1, row=3)
 
-start_button = tkinter.Button(text="Start", highlightthickness=0)
+start_button = tkinter.Button(text="Start", highlightthickness=0, command=start_timer)
 start_button.grid(column=0, row=2)
 
 reset_button = tkinter.Button(text="Reset", highlightthickness=0)
