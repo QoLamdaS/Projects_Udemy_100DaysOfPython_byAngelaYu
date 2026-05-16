@@ -13,7 +13,8 @@ LONG_BREAK_MIN = 20
 # ---------------------------- TIMER RESET ------------------------------- # 
 
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
-
+def start_timer():
+    count_down(5)
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
 def count_down(count):
     canva.itemconfig(timer_text, text=count)
@@ -31,7 +32,7 @@ canva.create_image(100, 112, image=tomato_image)
 timer_text = canva.create_text(100, 130, text="00:00", fill="white", font=(FONT_NAME, 35, "bold"))
 canva.grid(column=1, row=1)
 
-count_down(5)
+
 
 timer_label = tkinter.Label(text="Timer", fg=GREEN, bg=YELLOW, font=(FONT_NAME, 50))
 timer_label.grid(column=1, row=0)
