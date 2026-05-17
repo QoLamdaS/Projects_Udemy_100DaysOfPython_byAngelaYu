@@ -143,3 +143,8 @@ Day 21/100: 16 May 2026, Saturday (≈25 mins ; >25mins✅)
 - Just showing up today. I'm still busy studying for my endterm exams and reallly lazyyy
 - Happy Coding!
 - Happy Learning!
+
+Day 22/100: 17 May 2026, Sunday (≈5mins ; >25mins❌)
+> What I done this day?
+- Just showing up today. I'm extremely busy studying for my endterm exams tomorrow.
+- Happy Learning!
