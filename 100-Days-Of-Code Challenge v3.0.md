@@ -148,3 +148,8 @@ Day 22/100: 17 May 2026, Sunday (≈5mins ; >25mins❌)
 > What I done this day?
 - Just showing up today. I'm extremely busy studying for my endterm exams tomorrow.
 - Happy Learning!
+
+Day 23/100: 18 May 2026, Monday (≈5mins ; >25mins❌)
+> What I done this day?
+- Just showing up today. I'm very  extremely busy studying for my endterm maths exam tomorrow.
+- Happy Learning!
