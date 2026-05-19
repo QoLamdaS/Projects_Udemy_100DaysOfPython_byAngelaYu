@@ -153,3 +153,9 @@ Day 23/100: 18 May 2026, Monday (≈5mins ; >25mins❌)
 > What I done this day?
 - Just showing up today. I'm very  extremely busy studying for my endterm maths exam tomorrow.
 - Happy Learning!
+
+Day 24/100: 19 May 2026, Tuesday (≈5mins ; >25mins❌)
+> What I done this day?
+- Just started out dynamic typing in Python tkinter Day 28 of the course
+- Just showing up for today. I'm very busy cramming for exams tomorrow.
+- Happy Learning!
