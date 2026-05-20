@@ -159,3 +159,8 @@ Day 24/100: 19 May 2026, Tuesday (≈5mins ; >25mins❌)
 - Just started out dynamic typing in Python tkinter Day 28 of the course
 - Just showing up for today. I'm very busy cramming for exams tomorrow.
 - Happy Learning!
+
+Day 25/100: 20 May 2026, Wednesday (≈5mins ; >25mins❌)
+> What I done this day?
+- Just showing up for today. I'm still very busy cramming for exams tomorrow.
+- Happy Learning!
