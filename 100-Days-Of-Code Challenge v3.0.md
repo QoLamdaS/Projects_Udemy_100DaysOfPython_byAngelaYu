@@ -164,3 +164,8 @@ Day 25/100: 20 May 2026, Wednesday (≈5mins ; >25mins❌)
 > What I done this day?
 - Just showing up for today. I'm still very busy cramming for exams tomorrow.
 - Happy Learning!
+
+Day 26/100: 21 May 2026, Thursday (≈5mins ; >25mins❌)
+> What I done this day?
+- Just showing up for today again. I'm still very busy studying for endterm physics exam tomorrow.
+- Happy Learning!
