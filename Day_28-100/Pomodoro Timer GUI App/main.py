@@ -9,11 +9,15 @@ FONT_NAME = "Courier"
 WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
+reps = 0
 
 # ---------------------------- TIMER RESET ------------------------------- # 
 
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 def start_timer():
+    global reps
+    reps += 1
+    
     count_down(60 * 5)
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
 def count_down(count):
