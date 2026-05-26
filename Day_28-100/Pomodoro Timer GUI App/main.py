@@ -56,7 +56,7 @@ canva.grid(column=1, row=1)
 timer_label = tkinter.Label(text="Timer", fg=GREEN, bg=YELLOW, font=(FONT_NAME, 50))
 timer_label.grid(column=1, row=0)
 
-checkmarks_label = tkinter.Label(text="✔", fg=GREEN, bg=YELLOW)
+checkmarks_label = tkinter.Label(text="", fg=GREEN, bg=YELLOW)
 checkmarks_label.grid(column=1, row=3)
 
 start_button = tkinter.Button(text="Start", highlightthickness=0, command=start_timer)
