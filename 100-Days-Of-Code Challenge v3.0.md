@@ -201,3 +201,9 @@ Day 31/100: 26 May 2026, Tuesday (≈25mins ; >25mins✅)
 - Trying to solve Lecture 219 Day 28 challenge for adding a checkmark every completed rep. I really have no idea how to solve this.
 - Happy Coding!
 - Happy Learning!
+
+Day 32/100: 27 May 2026, Wednesday (≈50mins ; >25mins✅)
+> What have I done today?
+- I am trying to know my learning style (learn how to learn). I really have no idea. I feel lost =)
+- Happy Coding!
+- Happy Learning!
