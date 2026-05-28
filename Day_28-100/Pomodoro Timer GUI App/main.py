@@ -41,6 +41,13 @@ def count_down(count):
     canva.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
     if count > 0:
         window.after(1000, count_down, count - 1)
+    else:
+        start_timer()
+        marks = ""
+        work_sessions = reps // 2
+        for _ in range(work_sessions):
+            marks += "✓"
+        checkmarks_label.config(text=marks)
         
 # ---------------------------- UI SETUP ------------------------------- #
 window = tkinter.Tk()
