@@ -214,3 +214,8 @@ Day 33/100: 28 May 2026, Thursday (≈25mins ; >25mins✅)
 - I think I need to make a significant change in how I learn about Python Programming every day, switching to building multiple independent projects.
 - Happy Coding!
 - Happy Learning!
+
+# HIGHLY IMPORTANT ANNOUNCEMENT
+## This repo discontinued for journaling 100DaysOfCodeChallenge
+### Click this link for My UNIVERSAL 100DaysOfCodeChallenge JOURNALS repo => https://github.com/QoLamdaS/My_UNIVERSAL-100DaysOfCodeChallenge-Journal.git
+
