@@ -10,12 +10,20 @@ WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 reps = 0
+timer = None
 
 # ---------------------------- TIMER RESET ------------------------------- # 
-
+def reset_timer():
+    if timer:
+        window.after_cancel(timer)
+    canva.itemconfig(timer_text, text="00:00")
+    timer_label.config(text="Timer", fg=GREEN)
+    checkmarks_label.config(text="")
+    global reps
+    reps = 0
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 def start_timer():
-    global reps
+    global reps, timer
     reps += 1
     work_sec = WORK_MIN * 60
     short_break_sec = SHORT_BREAK_MIN * 60
@@ -32,6 +40,7 @@ def start_timer():
         
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
 def count_down(count):
+    global timer
     count_min = count // 60
     count_sec = count % 60
     if count_sec == 0:
@@ -40,7 +49,7 @@ def count_down(count):
         count_sec = f"0{count_sec}"
     canva.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
     if count > 0:
-        window.after(1000, count_down, count - 1)
+        timer = window.after(1000, count_down, count - 1)
     else:
         start_timer()
         marks = ""
@@ -69,7 +78,7 @@ checkmarks_label.grid(column=1, row=3)
 start_button = tkinter.Button(text="Start", highlightthickness=0, command=start_timer)
 start_button.grid(column=0, row=2)
 
-reset_button = tkinter.Button(text="Reset", highlightthickness=0)
+reset_button = tkinter.Button(text="Reset", highlightthickness=0, command=reset_timer)
 reset_button.grid(column=2, row=2)
 
 window.mainloop()
